@@ -222,14 +222,90 @@ footer { display: flex; justify-content: center; gap: 16px; padding: 25px 20px; 
 .reader-text { white-space: pre-line; font-size: clamp(1.07rem, 2.7vw, 1.24rem); line-height: 1.9; }
 .reader-notes { margin-top: 30px; padding-top: 18px; border-top: 1px solid var(--line); color: var(--muted); font: .85rem/1.55 Arial, sans-serif; }
 
+.header-actions,
+.collection-actions,
+.poem-actions,
+.reader-toolbar,
+.reader-tool-group,
+.reader-navigation,
+.collection-item-actions {
+  display: flex;
+  align-items: center;
+  gap: 9px;
+}
+
+.header-actions { justify-content: flex-end; }
+.install-button { padding: 7px 11px; border: 1px solid var(--gold-500); color: var(--gold-200); background: transparent; font: 700 .74rem Arial, sans-serif; }
+.install-button:hover, .install-button:focus-visible { color: var(--green-950); background: var(--gold-400); outline: none; }
+.collection-actions { flex-wrap: wrap; justify-content: flex-end; }
+.collection-button span { display: inline-grid; min-width: 19px; height: 19px; margin-left: 3px; place-items: center; border-radius: 20px; color: white; background: var(--green-700); font-size: .68rem; }
+
+.mahlas-filter { display: flex; gap: 8px; overflow-x: auto; margin: -4px 0 17px; padding: 3px 2px 8px; scrollbar-width: thin; }
+.mahlas-chip { flex: 0 0 auto; min-height: 36px; padding: 7px 13px; border: 1px solid var(--line); border-radius: 20px; color: var(--green-800); background: rgba(255, 253, 247, .82); font: 700 .78rem Arial, sans-serif; }
+.mahlas-chip:hover, .mahlas-chip:focus-visible, .mahlas-chip.active { border-color: var(--green-800); color: white; background: var(--green-800); outline: none; }
+
+.poem-card { cursor: default; }
+.poem-actions { position: absolute; right: 17px; bottom: 15px; left: 17px; justify-content: flex-end; }
+.poem-actions button { min-height: 34px; padding: 5px 9px; border: 1px solid transparent; border-radius: 2px; color: var(--green-700); background: transparent; font: 700 .75rem Arial, sans-serif; }
+.poem-actions button:hover, .poem-actions button:focus-visible { border-color: var(--gold-500); background: #f5eddb; outline: none; }
+.poem-actions .poem-open { position: static; margin-left: auto; }
+.poem-actions .poem-open::after { content: none; }
+
+.reader { scroll-behavior: smooth; }
+.reader.full-reading { width: 100vw; height: 100dvh; max-height: 100dvh; margin: 0; border-radius: 0; }
+.reader-toolbar { position: sticky; top: 0; z-index: 5; flex-wrap: wrap; min-height: 60px; padding: 9px 12px; border-bottom: 1px solid var(--line); background: rgba(255, 253, 247, .97); box-shadow: 0 5px 18px rgba(8, 43, 36, .08); font-family: Arial, sans-serif; }
+.reader-toolbar button { min-height: 38px; padding: 7px 10px; border: 1px solid var(--line); border-radius: 2px; color: var(--green-800); background: white; font: 700 .76rem Arial, sans-serif; }
+.reader-toolbar button:hover, .reader-toolbar button:focus-visible, .reader-toolbar button.active { border-color: var(--green-700); color: white; background: var(--green-700); outline: none; }
+.reader-toolbar button:disabled { cursor: not-allowed; opacity: .45; }
+.reader-toolbar .reader-close { position: static; width: 38px; margin-left: auto; padding: 0; border-radius: 50%; font-size: 1.35rem; }
+.reader-tool-group { border: 1px solid var(--line); background: white; }
+.reader-tool-group button { border: 0; }
+.reader-tool-group span { min-width: 55px; color: var(--muted); font-size: .72rem; text-align: center; }
+.scroll-controls { padding-right: 9px; }
+.scroll-controls label { color: var(--muted); font-size: .72rem; }
+.scroll-controls input { width: 82px; accent-color: var(--green-700); }
+.reader-text { transition: font-size .15s ease; }
+.source-card { margin-top: 38px; padding: 22px; border: 1px solid var(--line); border-left: 3px solid var(--gold-500); background: #fbf6e9; }
+.source-card h3 { margin-bottom: 15px; color: var(--green-900); font-size: 1.08rem; }
+.source-card dl { display: grid; gap: 10px; margin: 0; }
+.source-card dl div { display: grid; grid-template-columns: 105px 1fr; gap: 14px; }
+.source-card dt { color: var(--gold-500); font: 700 .72rem/1.5 Arial, sans-serif; letter-spacing: .07em; text-transform: uppercase; }
+.source-card dd { margin: 0; color: var(--muted); font: .84rem/1.5 Arial, sans-serif; }
+.reader-navigation { justify-content: space-between; margin-top: 28px; padding-top: 20px; border-top: 1px solid var(--line); }
+.reader-navigation button { min-height: 42px; padding: 8px 14px; border: 1px solid var(--green-700); color: var(--green-800); background: transparent; font: 700 .8rem Arial, sans-serif; }
+.reader-navigation button:hover, .reader-navigation button:focus-visible { color: white; background: var(--green-800); outline: none; }
+
+.collection-dialog { width: min(720px, calc(100% - 28px)); max-height: 86vh; padding: 0; border: 0; border-radius: 3px; color: var(--ink); background: var(--paper); box-shadow: 0 30px 90px rgba(0, 0, 0, .4); }
+.collection-dialog::backdrop { background: rgba(2, 24, 19, .72); backdrop-filter: blur(3px); }
+.collection-shell { position: relative; padding: clamp(30px, 6vw, 52px); }
+.collection-shell h2 { margin-bottom: 5px; color: var(--green-900); font-size: 2rem; font-weight: 500; }
+.collection-copy { color: var(--muted); }
+.collection-close { top: 16px; right: 16px; }
+.collection-list { display: grid; gap: 9px; margin: 24px 0; }
+.collection-item { display: flex; align-items: center; justify-content: space-between; gap: 16px; padding: 14px; border: 1px solid var(--line); background: white; }
+.collection-item strong, .collection-item span { display: block; }
+.collection-item strong { color: var(--green-900); }
+.collection-item span { margin-top: 3px; color: var(--muted); font-size: .84rem; font-style: italic; }
+.collection-item-actions { flex: 0 0 auto; }
+.collection-item-actions button, .clear-collection { min-height: 36px; padding: 6px 10px; border: 1px solid var(--line); color: var(--green-800); background: transparent; font: 700 .73rem Arial, sans-serif; }
+.collection-item-actions button:hover, .collection-item-actions button:focus-visible, .clear-collection:hover, .clear-collection:focus-visible { color: white; background: var(--green-800); outline: none; }
+.collection-item-actions button:disabled { opacity: .3; }
+.collection-empty { padding: 35px 20px; border: 1px dashed var(--line); color: var(--muted); text-align: center; }
+.clear-collection { border-color: #a25c4d; color: #824437; }
+
 @media (max-width: 820px) {
   .poem-grid { grid-template-columns: repeat(2, minmax(0, 1fr)); }
+  .section-heading { align-items: flex-start; flex-direction: column; }
+  .collection-actions { justify-content: flex-start; }
+  .reader-toolbar { gap: 7px; }
 }
 
 @media (max-width: 560px) {
   .site-header { min-height: 70px; padding: 10px 16px; }
   .brand-mark { width: 38px; height: 38px; }
   .archive-count { display: none; }
+  .header-actions { margin-left: auto; }
+  .install-button { padding: 6px 8px; font-size: .67rem; }
   .search-panel { padding: 40px 20px 37px; }
   .search-form input { min-height: 58px; padding-left: 50px; }
   .archive { width: min(100% - 28px, 1120px); padding-top: 36px; }
@@ -238,6 +314,14 @@ footer { display: flex; justify-content: center; gap: 16px; padding: 25px 20px; 
   footer { flex-direction: column; gap: 5px; }
   .footer-divider { display: none; }
   .reader-shell { padding: 48px 25px 34px; }
+  .reader-toolbar { align-items: stretch; padding: 8px; }
+  .reader-toolbar > button:not(.reader-close), .scroll-controls { flex: 1 1 auto; }
+  .reader-toolbar .reader-close { position: absolute; top: 8px; right: 8px; }
+  .reader-toolbar { padding-right: 52px; }
+  .scroll-controls input { width: 65px; }
+  .source-card dl div { grid-template-columns: 1fr; gap: 2px; }
+  .collection-item { align-items: flex-start; flex-direction: column; }
+  .collection-item-actions { flex-wrap: wrap; }
 }
 
 @media (prefers-reduced-motion: reduce) {

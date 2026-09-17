@@ -6,8 +6,10 @@
   <meta name="theme-color" content="#123f32">
   <meta name="description" content="Hz. Sauna Sultan Dergâhı deyişlerini doğru metinleri ve mahlaslarıyla kolayca bulmak ve birlikte okumak için hazırlanmış arşiv.">
   <title>Deyişler Meclisi</title>
+  <link rel="manifest" href="manifest.webmanifest?v=5">
+  <link rel="apple-touch-icon" href="ussaki-takkesi.png">
   <link rel="icon" type="image/svg+xml" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 64 64'%3E%3Crect width='64' height='64' rx='16' fill='%23123f32'/%3E%3Cpath d='M32 10l5.5 13.5L51 29l-13.5 5.5L32 48l-5.5-13.5L13 29l13.5-5.5z' fill='none' stroke='%23d8b35d' stroke-width='3'/%3E%3Ccircle cx='32' cy='29' r='6' fill='%23f4ead3'/%3E%3C/svg%3E">
-  <link rel="stylesheet" href="styles.css">
+  <link rel="stylesheet" href="styles.css?v=5">
 </head>
 <body>
   <header class="site-header">
@@ -18,7 +20,10 @@
         <small>Doğru Mahlas ile Doğru Beyitler.</small>
       </span>
     </a>
-    <span class="archive-count" id="archive-count">Arşiv hazırlanıyor…</span>
+    <div class="header-actions">
+      <button class="install-button" id="install-app" type="button" hidden>Uygulamayı yükle</button>
+      <span class="archive-count" id="archive-count">Arşiv hazırlanıyor…</span>
+    </div>
   </header>
 
   <main>
@@ -46,9 +51,15 @@
           <p class="eyebrow">Alfabetik arşiv</p>
           <h2 id="archive-title">Bütün deyişler</h2>
         </div>
-        <button class="plain-button" id="show-all" type="button" hidden>Tümünü göster</button>
+        <div class="collection-actions">
+          <button class="plain-button collection-button" id="show-favorites" type="button">Favoriler <span id="favorites-count">0</span></button>
+          <button class="plain-button collection-button" id="show-setlist" type="button">Okuma listesi <span id="setlist-count">0</span></button>
+          <button class="plain-button collection-button" id="show-recent" type="button">Son okunanlar</button>
+          <button class="plain-button" id="show-all" type="button" hidden>Tümünü göster</button>
+        </div>
       </div>
 
+      <div class="mahlas-filter" id="mahlas-filter" aria-label="Mahlasa göre süz"></div>
       <nav class="alphabet" id="alphabet" aria-label="Baş harfe göre süz"></nav>
       <div class="poem-grid" id="poem-grid"></div>
 
@@ -68,18 +79,50 @@
   </footer>
 
   <dialog class="reader" id="reader" aria-labelledby="reader-title">
-    <div class="reader-shell">
+    <div class="reader-toolbar" aria-label="Okuma araçları">
+      <div class="reader-tool-group" aria-label="Yazı boyutu">
+        <button type="button" id="font-decrease" aria-label="Yazıyı küçült">A−</button>
+        <span id="font-size-label">Normal</span>
+        <button type="button" id="font-increase" aria-label="Yazıyı büyüt">A+</button>
+      </div>
+      <div class="reader-tool-group scroll-controls">
+        <button type="button" id="autoscroll-toggle">Kaydırmayı başlat</button>
+        <label for="scroll-speed">Hız</label>
+        <input id="scroll-speed" type="range" min="1" max="5" value="2" step="1">
+      </div>
+      <button type="button" id="wake-toggle">Ekranı açık tut</button>
+      <button type="button" id="fullscreen-toggle">Tam ekran</button>
+      <button type="button" id="reader-favorite">☆ Favori</button>
+      <button type="button" id="reader-setlist">＋ Liste</button>
       <button class="reader-close" id="reader-close" type="button" aria-label="Deyişi kapat">×</button>
+    </div>
+    <div class="reader-shell">
       <p class="reader-kicker" id="reader-type">Deyiş</p>
       <h2 id="reader-title"></h2>
       <p class="reader-author" id="reader-author"></p>
       <div class="gold-rule" aria-hidden="true"><span>◆</span></div>
       <div class="reader-text" id="reader-text"></div>
       <div class="reader-notes" id="reader-notes" hidden></div>
+      <div class="source-card" id="reader-source"></div>
+      <nav class="reader-navigation" aria-label="Deyişler arasında gezin">
+        <button type="button" id="previous-poem">← Önceki</button>
+        <button type="button" id="next-poem">Sonraki →</button>
+      </nav>
     </div>
   </dialog>
 
-  <script src="deyisler.js"></script>
-  <script src="app.js"></script>
+  <dialog class="collection-dialog" id="collection-dialog" aria-labelledby="collection-title">
+    <div class="collection-shell">
+      <button class="reader-close collection-close" id="collection-close" type="button" aria-label="Pencereyi kapat">×</button>
+      <p class="reader-kicker">Kişisel seçiminiz</p>
+      <h2 id="collection-title"></h2>
+      <p class="collection-copy" id="collection-copy"></p>
+      <div class="collection-list" id="collection-list"></div>
+      <button class="clear-collection" id="clear-collection" type="button">Listeyi temizle</button>
+    </div>
+  </dialog>
+
+  <script src="deyisler.js?v=5"></script>
+  <script src="app.js?v=5"></script>
 </body>
 </html>
