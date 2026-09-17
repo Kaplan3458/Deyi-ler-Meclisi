@@ -7,7 +7,7 @@
   );
   const poemsById = new Map(poems.map(poem => [poem.id, poem]));
   const fontSizes = [1.02, 1.16, 1.32, 1.52, 1.74];
-  const scrollSpeeds = [9, 17, 27, 40, 58];
+  const scrollSpeeds = [6, 12, 22, 36, 54];
 
   const els = {
     form: document.querySelector("#search-form"),
@@ -63,6 +63,7 @@
   let wakeLock = null;
   let scrollFrame = null;
   let previousFrameTime = 0;
+  let scrollCarry = 0;
   let fontIndex = clamp(Number(localStorage.getItem("deyis-font-size") || 1), 0, fontSizes.length - 1);
   const state = {
     favorites: readStoredList("deyis-favorites"),
@@ -249,7 +250,12 @@
     const elapsed = Math.min(time - previousFrameTime, 100);
     previousFrameTime = time;
     const speed = scrollSpeeds[Number(els.scrollSpeed.value) - 1];
-    els.reader.scrollTop += speed * elapsed / 1000;
+    scrollCarry += speed * elapsed / 1000;
+    const wholePixels = Math.floor(scrollCarry);
+    if (wholePixels > 0) {
+      els.reader.scrollTop += wholePixels;
+      scrollCarry -= wholePixels;
+    }
     const finished = els.reader.scrollTop + els.reader.clientHeight >= els.reader.scrollHeight - 2;
     if (finished) stopAutoScroll();
     else scrollFrame = requestAnimationFrame(autoScrollFrame);
@@ -258,6 +264,7 @@
   function startAutoScroll() {
     if (scrollFrame) return;
     previousFrameTime = 0;
+    scrollCarry = 0;
     els.autoscrollToggle.textContent = "Kaydırmayı durdur";
     els.autoscrollToggle.classList.add("active");
     scrollFrame = requestAnimationFrame(autoScrollFrame);
@@ -267,6 +274,7 @@
     if (scrollFrame) cancelAnimationFrame(scrollFrame);
     scrollFrame = null;
     previousFrameTime = 0;
+    scrollCarry = 0;
     els.autoscrollToggle.textContent = "Kaydırmayı başlat";
     els.autoscrollToggle.classList.remove("active");
   }
@@ -537,7 +545,7 @@
     els.wakeToggle.title = "Bu tarayıcı ekranı açık tutma özelliğini desteklemiyor.";
   }
   if ("serviceWorker" in navigator) {
-    window.addEventListener("load", () => navigator.serviceWorker.register("./service-worker.js?v=5"));
+    window.addEventListener("load", () => navigator.serviceWorker.register("./service-worker.js?v=6"));
   }
 
   els.count.textContent = `${poems.length} kayıt`;

@@ -1,14 +1,14 @@
-const CACHE_NAME = "deyisler-meclisi-v5";
+const CACHE_NAME = "deyisler-meclisi-v6";
 const OFFLINE_FILES = [
   "./",
   "./index.html",
-  "./styles.css?v=5",
-  "./app.js?v=5",
-  "./deyisler.js?v=5",
+  "./styles.css?v=6",
+  "./app.js?v=6",
+  "./deyisler.js?v=6",
   "./ussaki-takkesi.png",
   "./icon-192.png",
   "./icon-512.png",
-  "./manifest.webmanifest?v=5"
+  "./manifest.webmanifest?v=6"
 ];
 
 self.addEventListener("install", event => {
