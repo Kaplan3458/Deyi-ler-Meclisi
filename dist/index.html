@@ -1,0 +1,85 @@
+<!doctype html>
+<html lang="tr">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="theme-color" content="#123f32">
+  <meta name="description" content="Doğru metinleri ve mahlaslarıyla deyişleri kolayca bulmak ve birlikte okumak için hazırlanmış aile arşivi.">
+  <title>Deyişler Meclisi</title>
+  <link rel="icon" type="image/svg+xml" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 64 64'%3E%3Crect width='64' height='64' rx='16' fill='%23123f32'/%3E%3Cpath d='M32 10l5.5 13.5L51 29l-13.5 5.5L32 48l-5.5-13.5L13 29l13.5-5.5z' fill='none' stroke='%23d8b35d' stroke-width='3'/%3E%3Ccircle cx='32' cy='29' r='6' fill='%23f4ead3'/%3E%3C/svg%3E">
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <header class="site-header">
+    <a class="brand" href="#" aria-label="Deyişler Meclisi ana sayfa">
+      <span class="brand-mark" aria-hidden="true">✦</span>
+      <span>
+        <strong>Deyişler Meclisi</strong>
+        <small>Doğru söz · doğru mahlas</small>
+      </span>
+    </a>
+    <span class="archive-count" id="archive-count">Arşiv hazırlanıyor…</span>
+  </header>
+
+  <main>
+    <section class="search-panel" aria-labelledby="page-title">
+      <div class="ornament" aria-hidden="true"><span>◆</span></div>
+      <p class="eyebrow">Aile Deyiş Arşivi</p>
+      <h1 id="page-title">Aradığınız deyişi bulun</h1>
+      <p class="intro">Başlık, dize, mahlas veya konu yazarak arayabilirsiniz.</p>
+
+      <form class="search-form" id="search-form" role="search">
+        <label class="sr-only" for="search-input">Deyişlerde ara</label>
+        <span class="search-icon" aria-hidden="true">
+          <svg viewBox="0 0 24 24"><circle cx="11" cy="11" r="7"></circle><path d="m20 20-4-4"></path></svg>
+        </span>
+        <input id="search-input" type="search" autocomplete="off" placeholder="Örn. gönül, Pir Sultan, bir dize…">
+        <button type="button" class="clear-button" id="clear-search" aria-label="Aramayı temizle" hidden>×</button>
+      </form>
+
+      <div class="search-summary" id="search-summary" aria-live="polite"></div>
+    </section>
+
+    <section class="archive" aria-labelledby="archive-title">
+      <div class="section-heading">
+        <div>
+          <p class="eyebrow">Alfabetik arşiv</p>
+          <h2 id="archive-title">Bütün deyişler</h2>
+        </div>
+        <button class="plain-button" id="show-all" type="button" hidden>Tümünü göster</button>
+      </div>
+
+      <nav class="alphabet" id="alphabet" aria-label="Baş harfe göre süz"></nav>
+      <div class="poem-grid" id="poem-grid"></div>
+
+      <div class="empty-state" id="empty-state" hidden>
+        <span class="empty-symbol" aria-hidden="true">☙</span>
+        <h3>Bu arşivde eşleşen bir deyiş yok</h3>
+        <p id="empty-copy">Yazımı kontrol edebilir veya aynı ifadeyi internette arayabilirsiniz.</p>
+        <div class="web-searches" id="web-searches"></div>
+      </div>
+    </section>
+  </main>
+
+  <footer>
+    <span>Deyişler Meclisi</span>
+    <span class="footer-divider" aria-hidden="true">◆</span>
+    <span>Birlikte okumak, doğru aktarmak için</span>
+  </footer>
+
+  <dialog class="reader" id="reader" aria-labelledby="reader-title">
+    <div class="reader-shell">
+      <button class="reader-close" id="reader-close" type="button" aria-label="Deyişi kapat">×</button>
+      <p class="reader-kicker" id="reader-type">Deyiş</p>
+      <h2 id="reader-title"></h2>
+      <p class="reader-author" id="reader-author"></p>
+      <div class="gold-rule" aria-hidden="true"><span>◆</span></div>
+      <div class="reader-text" id="reader-text"></div>
+      <div class="reader-notes" id="reader-notes" hidden></div>
+    </div>
+  </dialog>
+
+  <script src="deyisler.js"></script>
+  <script src="app.js"></script>
+</body>
+</html>
