@@ -22,7 +22,6 @@
     webSearches: document.querySelector("#web-searches"),
     showAll: document.querySelector("#show-all"),
     count: document.querySelector("#archive-count"),
-    installApp: document.querySelector("#install-app"),
     favoritesCount: document.querySelector("#favorites-count"),
     setlistCount: document.querySelector("#setlist-count"),
     showFavorites: document.querySelector("#show-favorites"),
@@ -59,7 +58,6 @@
   let activeMahlas = "";
   let currentPoem = null;
   let collectionMode = "favorites";
-  let deferredInstallPrompt = null;
   let wakeLock = null;
   let scrollFrame = null;
   let previousFrameTime = 0;
@@ -526,27 +524,21 @@
     if (document.visibilityState === "visible" && els.wakeToggle.classList.contains("active") && !wakeLock) requestWakeLock();
   });
 
-  window.addEventListener("beforeinstallprompt", event => {
-    event.preventDefault();
-    deferredInstallPrompt = event;
-    els.installApp.hidden = false;
-  });
-  els.installApp.addEventListener("click", async () => {
-    if (!deferredInstallPrompt) return;
-    deferredInstallPrompt.prompt();
-    await deferredInstallPrompt.userChoice;
-    deferredInstallPrompt = null;
-    els.installApp.hidden = true;
-  });
-  window.addEventListener("appinstalled", () => { els.installApp.hidden = true; });
-
   if (!("wakeLock" in navigator)) {
     els.wakeToggle.disabled = true;
     els.wakeToggle.title = "Bu tarayıcı ekranı açık tutma özelliğini desteklemiyor.";
   }
-  if ("serviceWorker" in navigator) {
-    window.addEventListener("load", () => navigator.serviceWorker.register("./service-worker.js?v=6"));
-  }
+  window.addEventListener("load", async () => {
+    const appScope = new URL("./", location.href).href;
+    if ("serviceWorker" in navigator) {
+      const registrations = await navigator.serviceWorker.getRegistrations();
+      await Promise.all(registrations.filter(registration => registration.scope === appScope).map(registration => registration.unregister()));
+    }
+    if ("caches" in window) {
+      const cacheNames = await caches.keys();
+      await Promise.all(cacheNames.filter(name => name.startsWith("deyisler-meclisi-")).map(name => caches.delete(name)));
+    }
+  });
 
   els.count.textContent = `${poems.length} kayıt`;
   updateCounts();
