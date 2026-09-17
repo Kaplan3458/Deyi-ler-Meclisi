@@ -52,7 +52,8 @@
       poem.mahlas,
       poem.tur,
       poem.metin,
-      ...(poem.konular || [])
+      ...(poem.konular || []),
+      ...(poem.anilanlar || [])
     ].join(" "));
   }
 
@@ -64,7 +65,9 @@
     button.innerHTML = `
       <span class="poem-letter">${escapeHtml(firstLetter(poem.baslik))} · ${escapeHtml(poem.tur || "Deyiş")}</span>
       <h3>${escapeHtml(poem.baslik)}</h3>
+      <span class="poem-meta-label">Mahlas</span>
       <p class="poem-author">${escapeHtml(poem.mahlas)}</p>
+      <p class="poem-first-line">${escapeHtml(poem.metin.split("\n").find(line => line.trim()) || "")}</p>
       <span class="poem-open">Oku</span>
     `;
     button.addEventListener("click", () => openReader(poem));
