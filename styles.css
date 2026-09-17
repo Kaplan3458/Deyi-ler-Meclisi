@@ -75,9 +75,10 @@ button { cursor: pointer; }
   overflow: hidden;
   border: 1px solid var(--gold-400);
   background: #0f5634;
+  transform: rotate(45deg);
 }
 
-.brand-mark img { display: block; width: 100%; height: 100%; object-fit: cover; }
+.brand-mark img { display: block; width: 100%; height: 100%; object-fit: cover; transform: rotate(-45deg) scale(.78); }
 .brand strong, .brand small { display: block; }
 .brand strong { font-size: 1.08rem; letter-spacing: .03em; }
 .brand small { margin-top: 1px; color: #cbd9d2; font: .75rem/1.3 Arial, sans-serif; letter-spacing: .08em; }

@@ -124,8 +124,7 @@
     }
     const searches = [
       ["Google’da ara", `https://www.google.com/search?q=${encodeURIComponent(`\"${cleanQuery}\" deyiş sözleri mahlas`)}`],
-      ["YouTube’da ara", `https://www.youtube.com/results?search_query=${encodeURIComponent(`${cleanQuery} deyiş`)}`],
-      ["Google Kitaplar’da ara", `https://books.google.com/books?q=${encodeURIComponent(`\"${cleanQuery}\" deyiş`)}`]
+      ["YouTube’da ara", `https://www.youtube.com/results?search_query=${encodeURIComponent(`${cleanQuery} deyiş`)}`]
     ];
     const fragment = document.createDocumentFragment();
     searches.forEach(([label, href]) => {
