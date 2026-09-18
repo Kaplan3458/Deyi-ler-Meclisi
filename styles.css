@@ -74,7 +74,7 @@ button { cursor: pointer; }
   height: 48px;
   overflow: hidden;
   border: 1px solid var(--gold-400);
-  background: #0f5634;
+  background: var(--green-950);
   transform: rotate(45deg);
 }
 
@@ -209,7 +209,7 @@ h1 { margin-bottom: 8px; font-size: clamp(2rem, 5vw, 3.25rem); line-height: 1.12
 footer { display: flex; justify-content: center; gap: 16px; padding: 25px 20px; color: #cbd9d2; background: var(--green-950); font: .78rem Arial, sans-serif; text-align: center; }
 .footer-divider { color: var(--gold-500); }
 
-.reader { width: min(760px, calc(100% - 28px)); max-height: min(88vh, 920px); padding: 0; border: 0; border-radius: 3px; color: var(--ink); background: var(--paper); box-shadow: 0 30px 90px rgba(0, 0, 0, .4); }
+.reader { width: min(760px, calc(100% - 28px)); max-height: min(88vh, 920px); padding: 0; border: 0; border-radius: 3px; color: var(--ink); background: var(--paper); box-shadow: 0 30px 90px rgba(0, 0, 0, .4); overflow-y: auto; -webkit-overflow-scrolling: touch; overscroll-behavior: contain; }
 .reader::backdrop { background: rgba(2, 24, 19, .78); backdrop-filter: blur(3px); }
 .reader-shell { position: relative; padding: clamp(32px, 7vw, 62px); }
 .reader-close { position: absolute; top: 17px; right: 17px; width: 40px; height: 40px; padding: 0; border: 1px solid var(--line); border-radius: 50%; color: var(--green-900); background: transparent; font: 1.5rem/1 Arial, sans-serif; }
@@ -251,7 +251,6 @@ footer { display: flex; justify-content: center; gap: 16px; padding: 25px 20px; 
 .poem-actions .poem-open { position: static; margin-left: auto; }
 .poem-actions .poem-open::after { content: none; }
 
-.reader { scroll-behavior: smooth; }
 .reader.full-reading { width: 100vw; height: 100dvh; max-height: 100dvh; margin: 0; border-radius: 0; }
 .reader-toolbar { position: sticky; top: 0; z-index: 5; flex-wrap: wrap; min-height: 60px; padding: 9px 12px; border-bottom: 1px solid var(--line); background: rgba(255, 253, 247, .97); box-shadow: 0 5px 18px rgba(8, 43, 36, .08); font-family: Arial, sans-serif; }
 .reader-toolbar button { min-height: 38px; padding: 7px 10px; border: 1px solid var(--line); border-radius: 2px; color: var(--green-800); background: white; font: 700 .76rem Arial, sans-serif; }
