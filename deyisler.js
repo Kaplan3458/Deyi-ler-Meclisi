@@ -12,7 +12,7 @@ window.DEYISLER = [
     "anilanlar": [
       "Seyyid Nizamoğlu"
     ],
-    "metin": "Yandıklarım şam-u seher\nSenden midir benden midir\nBaşımdaki âşktan eser\nSenden midir benden midir\n\nSenden midir benden midir dost\n\nBağrımdaki başım benim\nGözümdeki yaşım benim\nÂh oldu yoldaşım benim\nSenden midir benden midir\n\nSenden midir benden midir dost\n\nFeryadım çıktı göklere\nDüşleri oldum dağlara\nEriştiğim bu çağlara\nSenden midir benden midir\n\nSenden midir benden midir dost\n\nTerk ettiğim canı teni\nYok eylediğim ben beni\nHer gördüğüm sanmak seni\nSenden midir benden midir\n\nSenden midir benden midir dost\n\nSeyyid Nizamoğlu sana\nBenliksiz al senden yana\nSen ben sözü bilmem bana\nSenden midir benden midir\n\nSenden midir benden midir dost"
+    "metin": "Yandıklarım şam-u seher\nSenden midir benden midir\nBaşımdaki aşktan eser\nSenden midir benden midir\n\nTerk ettiğim can-ü teni\nYok eylediğim ben beni\nHer gördüğüm sanmak seni\nSenden midir benden midir\n\nBağrımdaki başım benim\nGözümdeki yaşım benim\nAh oldu yoldaşım benim\nSenden midir benden midir\n\nNalanım erdi göklere\nDüşmeli oldum dağlara\nEriştiğim bu çağlara\nSenden midir benden midir\n\nSeyyid Nizamoğlu sana\nBenliksiz al senden yana\nSen ben sözü bilmem bana\nSenden midir benden midir"
   },
   {
     "id": "goz-gezdirdim-dort-koseyi-aradim",
@@ -80,6 +80,27 @@ window.DEYISLER = [
       "Pir Sultan Abdal"
     ],
     "metin": "Hızır Paşa bizi berdar etmeden\nAçılın kapılar Şah'a gidelim\nSiyaset günleri gelip çatmadan\nAçılın kapılar Şah'a gidelim\n\nBunda bilmeyeni bildirirler mi\nEli bağlı namaz kıldırırlar mı\nYoksa Şah diyeni öldürürler mi\nAçılın kapılar Şah'a gidelim\n\nAslımız Muhammet kıyman cellatlar\nÜstümüzde bite davacı otlar\nÖlüm Allah emri ya eziyetler\nAçılın kapılar Şah'a gidelim\n\nHer nereye baksam yolum dumandır\nPirim bana küfür etse imandır\nZincir boynum sıktı hâlim yamandır\nAçılın kapılar Şah'a gidelim\n\nSağlıklı mı ola dostun illeri\nKarşıda görünen tozlu yolları\nŞah'tan elçi gelmiş dem bülbülleri\nAçılın kapılar Şah'a gidelim\n\nGüzel Şah'ım çıktı m'ola köşküne\nCan dayanmaz gayretine müşkine\nSeni beni Yaradan'ın aşkına\nAçılın kapılar Şah'a gidelim\n\nKapısı yok bacasından bakarım\nGözlerimden hasret yaşı dökerim\nŞah'a giden bir bezirgân tutarım\nAçılın kapılar Şah'a gidelim\n\nPir Sultan Abdal'ım güzel Şah canım\nAğlamaktır benim demim devranım\nArşta melek yerde çeşm-i efgânım\nAçılın kapılar Şah'a gidelim"
+  },
+  {
+    "id": "acilin-kapilar-saha-gidelim-hizir-pasa",
+    "baslik": "Açılın Kapılar Şah'a Gidelim (Hızır Paşa Bizi Berdar Etmeden)",
+    "mahlas": "Pir Sultan Abdal",
+    "tur": "Deyiş",
+    "konular": [
+      "Şah",
+      "hasret",
+      "yol"
+    ],
+    "anilanlar": [
+      "Hızır Paşa",
+      "Şah",
+      "Ali",
+      "Hz. Ali",
+      "On İki İmam",
+      "Pir Sultan Abdal"
+    ],
+    "kaynak": "Kullanıcı tarafından iletilen internet ekran görüntüsü",
+    "metin": "Hızır Paşa bizi berdar etmeden\nAçılın kapılar Şah'a gidelim\nSiyaset günleri gelip yetmeden\nAçılın kapılar Şah'a gidelim\n\nGönül çıkmak ister Şah'ın köşküne\nCan boyanmak ister Ali müşküne\nPirim Ali On İki İmam aşkına\nAçılın kapılar Şah'a gidelim\n\nHer nereye gitsem yolum dumandır\nBizi böyle kılan ahd ü amandır\nZencir boynum sıktı halim yamandır\nAçılın kapılar Şah'a gidelim\n\nYaz selleri gibi akar çağlarım\nHançer aldım ciğerciğim dağlarım\nGarip kaldım şu arada ağlarım\nAçılın kapılar Şah'a gidelim\n\nIlgın ılgın esen seher yelleri\nYare selam eylen Urum Erleri\nBize peyik geldi Şah bülbülleri\nAçılın kapılar Şah'a gidelim\n\nPir Sultan'ım eydür mürvetli Şah'ım\nYaram baş verdi sızlar ciğergahım\nArşa direk direk olmuştur ahım\nAçılın kapılar Şah'a gidelim"
   },
   {
     "id": "riziklarin-veren-ali-degil-mi",
@@ -158,7 +179,7 @@ window.DEYISLER = [
       "Âşık Büryani"
     ],
     "kaynak": "Kullanıcı tarafından iletilen internet ekran görüntüsü",
-    "metin": "Canlı cansız cümlemiz bir nesneden\nVar oluyor bu bir hikmet sultanım\nCânâna akıtır bu cân-ı beden\nKabul etmek câna minnet sultanım\n\nSevip âşık olmak ezelden bahtım\nYâr sana kadimdir ikrarım ahdim\nSenin için bezendi sinemde tahtım\nAha teslim oldum hikmet sultanım\n\nBüryani'yem geldim mürvete düştüm\nCanımdan malımdan serimden geçtim\nGerçi ezel aşkın meyinden içtim\nDest-i kudretinle lütfet sultanım"
+    "metin": "Canlı cansız cümlemiz bir nesneden\nVaroluyor bu bir hikmet sultanım\nCanana akıtır bu can-ı beden\nKabul etmek cana minnet sultanım\n\nSevip aşık olmak ezelden bahtım\nYar sana kadimdir ikrarım ahtım\nSenin çün bezendi sinemde tahtım\nAha teslim oldum hükmet sultanım\n\nBüryani'yem geldim mürvete düştüm\nCanımdan malımdan serimden geçtim\nGerçi ezel aşkın meyinden içtim\nDest-i kudretinle lütfet sultanım"
   },
   {
     "id": "gel-dilber-aglatma-beni",
@@ -183,7 +204,7 @@ window.DEYISLER = [
       "Hacı Bektaş-ı Veli"
     ],
     "kaynak": "Kullanıcı tarafından iletilen internet ekran görüntüsü",
-    "metin": "Gel dilber ağlatma beni Şah-ı Merdan aşkına\nDü cihanın rânâsı Şâh-ı Yezdan aşkına\nŞahım Hasan, Pir Hüseyin Kerbelâ meydanı için\nLütfedip bağışla cürmüm Âl-i Süphan aşkına\n\nİmam Zeynel Abidin'in âbına umdun ise\nArayıp özünde Bâkır'ı buldun ise\nCeddin evlâd-ı Muhammed, Cafer'i bildin ise\nRahme gel ol Şah-ı Merdan Ali İmran aşkına\n\nSeyyid Musa-yı Kâzım'dır Ehl-i Beyt'in serveri\nCânı aşkı nûş edenler müptelâdır ekseri\nŞâh-ı şehid-i Horasan İmam Rıza'dan beri\nMüptelâya merhamet kıl kalb-i viran aşkına\n\nEy Virani çıkma yoldan doğru râha gel beri\nMuhabbet şefkat senindir ey Hasanü'l-Askerî\nEvliyalar serfirazı Hacı Bektaş-ı Veli\nSen ganisin ver muradı devr-i mihman aşkına"
+    "metin": "Gel Dilber Ağlatma Beni Şah-ı Merdan Aşkına\nDü Cihanın Ranimasi Şii Yezdan Aşkına\nŞahım Hasan Pir Hüseyin Kerbela Meydan İçin\nLütfedip Bağışla Cürmüm Ali Süphan Aşkına\n\nİmam Zeynel Abidin'in Abina Umdumusa\nArayıp Özünde Bakiri Buldunusa\nCeddin Evlad-ı Muhammet Cafer'i Bildin İse\nRahme Gel Ol Şah-ı Merdan Ali Ümran Aşkına\n\nSeyit Musa'yı Kazım'dır Ehl-i Beytin Serveri\nCani Aşkı Nuş Edenler Müpteladır Ekseri\nSahi Şehidi Horasan İmam Rıza'dan Beri\nMüptelayı Merhamet Kıl Kalb-i Viran Aşkına\n\nEy Virani Çıkma Yoldan Doğru Raha Gel Beri\nMuhabbet Şevkat Senindir Ey Hasan-Ül Askeri\nEvliyalar Serfirazı Haci Bektaş-ı Veli\nSen Ganisin Ver Muradı Devri Mihtan Aşkına"
   },
   {
     "id": "insan-olmaya-geldim",
@@ -199,7 +220,7 @@ window.DEYISLER = [
       "Nimri Dede"
     ],
     "kaynak": "Kullanıcı tarafından iletilen internet ekran görüntüsü",
-    "metin": "İkilik kinini içimden atıp\nÖzde ben bir insan olmaya geldim\nTaht kurup ariflerin gönlüne\nSözde ben bir insan olmaya geldim\n\nSerimi meydana koymaya geldim\nMeğerse aşk imiş canın mayası\nOna mihrap imiş kaşın arası\nHakk'ın işlediği kudret boyası\nYüzde ben bir insan olmaya geldim\n\nBütün mürşitlerin tarif ettiği\nSadıkların menziline yettiği\nEnbiyanın evliyanın gittiği\nİzde ben bir insan olmaya geldim\n\nBen de bir zamanlar baktım bakıldım\nNice yıllar bir kemende takıldım\nO aşk-ı mecazla yandım yakıldım\nKözde ben bir insan olmaya geldim\n\nSüzegeldim aşk meyini içerek\nHer bir akı karasından seçerek\nVarlık dağlarını delip geçerek\nDüzde ben bir insan olmaya geldim\n\nGör ki Nimri Dede şimdi neyleyi\nGerçek aşkı her gönüle söyleyi\nHer türlü sefaya veda eyleyi\nSazda ben bir insan olmaya geldim"
+    "metin": "İkilik kinini içimden atıp\nÖzde ben bir insan olmaya geldim\nTaht kuralı ariflerin gönlüne\nSözde ben bir insan olmaya geldim\nSerimi meydana koymaya geldim\n\nMeğerse aşk imiş canın mayası\nOna mihrabımış kaşın arası\nHakkın işlediği kudret boyası\nYüzde ben bir insan olmaya geldim\n\nBütün mürşidlerin tarif ettiği\nSadıkların menziline yettiği\nEnbiyanın evliyanın gittiği\nİzde ben bir insan olmaya geldim\n\nBen de bir zamanlar baktım bakıldım\nNice yıllar bir kemende takıldım\nO aşkı mecazla yandım yakıldım\nKözde ben bir insan olmaya geldim\n\nSüregeldim aşk meyini içerek\nHer bir akı karasından seçerek\nVarlık dağlarını delip geçerek\nDüzde ben bir insan olmaya geldim\n\nGör ki Nimri Dede şimdi neyleyi\nGerçek aşkı her gönüle söyleyi\nHer türlü sefaya veda eyleyi\nSazda ben bir insan olmaya geldim"
   },
   {
     "id": "duygular-donustu-soze",
@@ -216,7 +237,7 @@ window.DEYISLER = [
       "Leyla"
     ],
     "kaynak": "Kullanıcı tarafından iletilen internet ekran görüntüsü",
-    "metin": "Erenler zehir getirin, balınan öldürmen beni\nBağrıma diken batırın, gül ilen öldürmen beni\nHiçlik âleminde mestim, varlık sevdasını kestim\nYokluk benim eski dostum, malınan öldürmen beni\n\nYâr diyerek yana yana, can teslim ettim cânâna\nEn yakınım kıysın bana, el ilen öldürmen beni\n\nBir aşktır düştü özüme, yanarım kendi közüme\nLeyla görünüp gözüme, çölünen öldürmen beni\n\nDuygular dönüştü söze, yanık seda işler öze\nDertli dertli vurup saza, tel ilen öldürmen beni\n\nHüdai'yim daldım gama, saldı beni demden deme\nAsın, kesin, yüzün ama, dil ilen öldürmen beni"
+    "metin": "Erenler zehir getirin, balınan öldürmen beni\nBağrıma diken batırın, gül ilen öldürmen beni\nHiçlik aleminde mestim, varlık sevdasını kestim\nYokluk benim eski dostum, malınan öldürmen beni\n\nYar diyerek yana yana, can teslim ettim canana\nEn yakınım kıysın bana, el ilen öldürmen beni\nBir aşktır düştü özüme, yanarım kendi közüme\nLeyla görünüp gözüme, çölünen öldürmen beni\n\nDuygular dönüştü söze, yanık seda işler öze\nDertli dertli vurup saza, tel ilen öldürmen beni\nHüdai'yim daldım gama, saldı beni demden deme\nAsın, kesin, yüzün ama, dil ilen öldürmen beni"
   },
   {
     "id": "gonul-calamazsan-askin-sazini",
@@ -226,8 +247,7 @@ window.DEYISLER = [
     "konular": [],
     "anilanlar": [],
     "kaynak": "Kullanıcı tarafından iletilen internet ekran görüntüsü",
-    "not": "Ekran görüntüsünden aktarılmıştır; son metin doğrulaması önerilir.",
-    "metin": "Gönül çalamazsan aşkın sazını\nNe Perdeye Dokun Ne Teli incit\nEğer çekemezsen gülün Nazini\nNe Dikene Dokun Ne gülü incit\nDinle ki bülbülü Gelesin coşa\nKarganın nağmesi Gider Mi hoşa\nMeyvesiz ağacı Sallama boşa\nNe yaprağını dök Ne dalı incit\nBekle Dost kapısını sadık dost isen\nGönüller tamir et ehl-i dil isen\nSevda şehristanında Mecnun değilsen\nNe Leyla'yı çağır Ne çalıyı incit\nRızaya razı ol Hakk'a kailsen\nAra Bul mürşidi müşkülde Isen\nHakikat Sehrine Yolcu değilsen\nNe Yolcuyu eğle Ne Yolu incit\nGel Haktan Ayrılma Hakk'ı seversen\nNefsini ıslah et er oğlu ersen\nHüdai incinir, inciden Versen\nNe kimseden incin Ne Eli incit"
+    "metin": "Gönül çalamazsan aşkın sazını\nNe perdeye dokun ne teli incit\nEğer çekemezsen gülün nazını\nNe dikene dokun ne gülü incit\n\nDinle ki bülbülü gelesin coşa\nKarganın namesi gider mi hoşa\nMeyvesiz ağacı sallama boşa\nNe yaprağını dök ne dalı incit\n\nBekle dost kapısını sadık dost isen\nGönüller tamir et ehli dil isen\nSevda sahrasında Mecnun değilsen\nNe Leyla'yı çağır ne çölü incit\n\nRızaya razı ol Hakka kailsen\nAra bul mürşidi müşkülde isen\nHakikat şehrine yolcu değilsen\nNe yolcuyu eğle ne yolu incit\n\nGel Haktan ayrılma Hakkı seversen\nNefsini ıslah et er oğlu ersen\nHüdai incinir inciden versen\nNe kimseden incin ne eli incit"
   },
   {
     "id": "gel-gonul-gidelim-ask-ellerine",
@@ -237,8 +257,7 @@ window.DEYISLER = [
     "konular": [],
     "anilanlar": [],
     "kaynak": "Kullanıcı tarafından iletilen internet ekran görüntüsü",
-    "not": "Ekran görüntüsünden aktarılmıştır; son metin doğrulaması önerilir.",
-    "metin": "Gel Gönül Gidelim Aşk Ellerine\nMuradin Var ise Bir Tane Yeter\nFikreyle Kıldığın Amellerine\nHavayi Cehline Efsane Yeter\nHavay! Cehline Efsane Yeter\nEfendim Gül Yüzlüm Tabibim\nMeyl-i Dünya Kilip Olma Bednam\nKim Aldi Felekten Muradina Kam\nOlam Var Mi Yok Mu Ahiri Encam\nVakit Geçirmeye Virane Yeter\nVakit Geçirmeye Virane Yeter\nEfendim Gül Yazlüm Tabibim\nTurabi Oztin Payimal Eyle\nErenler Yolunda Kesbi Hal Eyle\nSu Fani Dinyay! Bir Hayal Eyle\nGelip Konan Göçtü Nisane Yeter\nGelip Konan Göcçtü Nisane Yeter\nEfendim Gül Yüzlüm Tabibim"
+    "metin": "Gel gönül gidelim aşk ellerine\nMuradın var ise bir tane yeter\nFikreyle kıldığın amellerine\nHavayı cehline efsane yeter\n\nHavayı cehline efsane yeter\nEfendim gül yüzlüm tabibim\n\nMeyl-i dünya kılıp olma bednam\nKim aldı felekten muradına kam\nÖlüm var mı yok mu ahiri encam\nVakit geçirmeye virane yeter\n\nVakit geçirmeye virane yeter\nEfendim gül yüzlüm tabibim\n\nTurabi özün payımal eyle\nErenler yolunda kesbi hal eyle\nŞu fani dünyayı bir hayal eyle\nGelip konan göçtü nişane yeter\n\nGelip konan göçtü nişane yeter\nEfendim gül yüzlüm tabibim"
   },
   {
     "id": "allah-bir-muhammed-ali",
@@ -248,8 +267,7 @@ window.DEYISLER = [
     "konular": [],
     "anilanlar": [],
     "kaynak": "Kullanıcı tarafından iletilen internet ekran görüntüsü",
-    "not": "Ekran görüntüsünden aktarılmıştır; son metin doğrulaması önerilir.",
-    "metin": "Allah bir Muhammed Ali\nNazar eyle bari bana\nlzz-U celalin aşkına\nÇektirme sol zari bana\nPirlere niyaz ederiz\nYalan dünya nederiz\nOlurüz hasret gideriz\nGöster sol didarin bana\nKalender aglar yerinir\nAşk hayaliyle strunur\nCenneti ridvan göruinir\nSol gtizelin kaddi bana\nPirlere niyaz ederiz\nYalan dünya nederiz\nOluirüz hasret gideriz\nGöster sol didarin bana"
+    "metin": "Allah bir Muhammed Ali\nNazar eyle bari bana\nİzz-ü celalin aşkına\nÇektirme şol zarı bana\n\nPirlere niyaz ederiz\nYalan dünya nederiz\nÖlürüz hasret gideriz\nGöster şol didarın bana\n\nKalender ağlar yerinir\nAşk hayaliyle sürünür\nCenneti rıdvan görünür\nŞol güzelin kaddi bana\n\nPirlere niyaz ederiz\nYalan dünya nederiz\nÖlürüz hasret gideriz\nGöster şol didarın bana"
   },
   {
     "id": "benim-pirim-sahi-merdan-alidir",
@@ -259,8 +277,7 @@ window.DEYISLER = [
     "konular": [],
     "anilanlar": [],
     "kaynak": "Kullanıcı tarafından iletilen internet ekran görüntüsü",
-    "not": "Ekran görüntüsünden aktarılmıştır; son metin doğrulaması önerilir.",
-    "metin": "Benim pirim Şah-ı Merdan Ali'dir\nSefiller destini tutan Ali'dir\nKopardi hayberin kapisin kirdi\nKaldirip arsumana atan Ali'dir\nHaydar haydar pirim Ali'dir\nŞah Hatayim Ali'm mansur darinda\nHu deyi cebrail serim yardiran\nUc yüz yildan sonra nergiz getiren\nNergizi selmana sunan Ali'dir\nHaydar haydar pirim Ali'dir"
+    "metin": "Benim pirim Şahi Merdan Ali'dir\nSefiller destini tutan Ali'dir\nKopardı hayberin kapısın kırdı\nKaldırıp arşumana atan Ali'dir\nHaydar haydar pirim Ali'dir\n\nŞah Hatayım Ali'm mansur darında\nHü deyi cebrail serim yardıran\nÜç yüz yıldan sonra nergiz getiren\nNergizi selmana sunan Ali'dir\nHaydar haydar pirim Ali'dir"
   },
   {
     "id": "pazarlik-edelim-alim-seninle",
@@ -270,8 +287,7 @@ window.DEYISLER = [
     "konular": [],
     "anilanlar": [],
     "kaynak": "Kullanıcı tarafından iletilen internet ekran görüntüsü",
-    "not": "Ekran görüntüsünden aktarılmıştır; son metin doğrulaması önerilir.",
-    "metin": "Pazarlık edelim Ali'm seninle\niki Cihan Senin Haydar Olsun Sen Benim\nHayrini Gor imanintla Dininle\nHatmin Kur'an Senin Olsun Sen Benim\nAyip Değilmidir Ademe Minnet\nBasina Calinsin Haydar Hurili Cennet\nDostluk Pazarinda Olma Muhannet\nHuri Kilman Senin Olsun Sen Benim\nAkarsuyum Böyle Vereyim Dursun\nSenin aşkın Onu Yaksin Kavursun\nAnladim Alimsin Canimsin Nursun\nKanber Selman Senin Olsun Sen Benim"
+    "metin": "Pazarlık edelim Alim seninle\nİki cihan senin Haydar olsun sen benim\nHayrını gör imanınla dininle\nHatmin Kur'an senin olsun sen benim\n\nAyıp değilmidir ademe minnet\nBaşına çalınsın Haydar hurili cennet\nDostluk pazarında olma muhannet\nHuri kılman senin olsun sen benim\n\nAkarsuyum böyle vereyim dursun\nSenin aşkın onu yaksın kavursun\nAnladım Alimsin canımsın nursun\nKanber Selman senin olsun sen benim"
   },
   {
     "id": "kimin-izni-ile-girdin-yola-sen",
@@ -281,8 +297,7 @@ window.DEYISLER = [
     "konular": [],
     "anilanlar": [],
     "kaynak": "Kullanıcı tarafından iletilen internet ekran görüntüsü",
-    "not": "Ekran görüntüsünden aktarılmıştır; son metin doğrulaması önerilir.",
-    "metin": "Arif isen bir gün seni seslerler\nBulbul deyü gülistanda besterler\nBir gin seni rehberinden isterler\nKimin izni ile girdin yola sen?\nKimin izni ile girdin yola sen?\nOzün egri ise yola zararsin\nDerdini yetismis, derman ararsan\nMaslahatin nedir sari sorarsin?\nSarraf olmayinca girme sara sen\nSarraf olmayinca girme sara sen\nKapidan çıkinca köse gdzetme\nicin karartip da disin düzeltme\nŞah Hatayi dtesini uzatma\nMü'min isen bir ikrarda dura sen\nMü'min isen bir ikrarda dura sen"
+    "metin": "Arif isen bir gün seni seslerler\nBülbül deyü gülistanda beslerler\nBir gün seni rehberinden isterler\nKimin izni ile girdin yola sen?\nKimin izni ile girdin yola sen?\n\nÖzün eğri ise yola zararsın\nDerdini yetişmiş, derman ararsan\nMaslahatın nedir şarı sorarsın?\nSarraf olmayınca girme şara sen\nSarraf olmayınca girme şara sen\n\nKapıdan çıkınca köşe gözetme\nİçin karartıp da dışın düzeltme\nŞah Hatayi ötesini uzatma\nMü'min isen bir ikrarda dura sen\nMü'min isen bir ikrarda dura sen"
   },
   {
     "id": "yar-olmaz-imis",
@@ -292,8 +307,7 @@ window.DEYISLER = [
     "konular": [],
     "anilanlar": [],
     "kaynak": "Kullanıcı tarafından iletilen internet ekran görüntüsü",
-    "not": "Ekran görüntüsünden aktarılmıştır; son metin doğrulaması önerilir.",
-    "metin": "Sen Sen Ol Zalimdan Dileme Aman\nHercai Güzelde Kit Olur iman\nElin Dara Düştün De Gor O Zaman\nHer Yuize Gülen Dost Yar Olmaz imiş\nGönlünd Rahat Tut Hatirini Hos\nUmutla Beslenir Hayali Sarhos\nCumle Cihan(Alem) Sigar Dünya Yeri Bos\nGüzelin(Miminin) Yuregi Dar Olmaz imiş\nNe Sabra Tahammtl Ne De Muahlet Var\nNuru Hikmettendir Dogan Afatlar\nTufana Gark Olur Kalbi Fesatlar\nUhrevi Alemde Var Olmaz imiş"
+    "metin": "Sen sen ol zalımdan dileme aman\nHercai güzelde kıt olur iman\nElin dara düşsün de gör o zaman\nHer yüze gülen dost yar olmazımış\n\nGönlünü rahat tut hatırını hoş\nUmutla beslenir hayali sarhoş\nCümle cihan(Alem) sığar dünya yeri boş\nGüzelin(Müminin) yüreği dar olmazımış\n\nNe sabra tahammül ne de mühlet var\nNuru hikmettendir doğan afatlar\nTufana gark olur kalbi fesatlar\nUhrevi alemde var olmazımış"
   },
   {
     "id": "salma-dil-gemisin-engine-asik",
@@ -303,8 +317,7 @@ window.DEYISLER = [
     "konular": [],
     "anilanlar": [],
     "kaynak": "Kullanıcı tarafından iletilen internet ekran görüntüsü",
-    "not": "Ekran görüntüsünden aktarılmıştır; son metin doğrulaması önerilir.",
-    "metin": "Salma dil gemisin engine âşık\nErenler ceminde payan bulunmaz\nHer yerde faş etme sırr-ı hakikat\nOnu fehmeyleyen bir can bulunmaz\n(Ali çoktur Şah-ı Merdan bulunmaz)\n\nArifin hâlini tarife ne hacet\nEfsane sözlerden eyle feragat\nHani nerde, göster sahip keramet\nAli çoktur Şah-ı Merdan bulunmaz\n(Böyle bir acayip devran bulunmaz)\n\nMuhtefi oldular âlemde erler\nKıymetsiz olmuştur ilm ü hünerler\nHer kime sorarsan arifiz derler\nBenden özge baktım nadan bulunmaz\n(Ali çoktur Şah-ı Merdan bulunmaz)\n\nTurabi cihanda olduk serseri\nFehmeden kalmamış dürr ü gevheri\nKimsenin kimseden yoktur haberi\nBöyle bir acayip devran bulunmaz\n(Ali çoktur Şah-ı Merdan bulunmaz)"
+    "metin": "Salma dil gemisin engine aşık\nErenler ceminde payen bulunmaz\nHer yerde faş etmez sırrı hakikat\nOnu fehmeyleyen bir can bulunmaz\n(Ali çoktur Şah-ı Merdan bulunmaz)\n\nArifin halini tarif ne hacet\nEfsane sözlerden eyle feragat\nHani nerde göster sahip keramet\nAli çoktur Şah-ı Merdan bulunmaz\n(Böyle bir acayip devran bulunmaz)\n\nMuhtefi oldular alemde erler\nKıymetsiz olmuştur ilmü hünerler\nHer kime sorarsan arifiz derler\nBenden özge baktım nadan bulunmaz\n(Ali çoktur Şah-ı Merdan bulunmaz)\n\nTurabi cihanda olduk serseri\nFehmeden kalmamış dürrü gevheri\nKimsenin kimseden yoktur haberi\nBöyle bir acayip devran bulunmaz\n(Ali çoktur Şah-ı Merdan bulunmaz)"
   },
   {
     "id": "gam-elinden-benim-zulfu-siyahim",
@@ -314,8 +327,7 @@ window.DEYISLER = [
     "konular": [],
     "anilanlar": [],
     "kaynak": "Kullanıcı tarafından iletilen internet ekran görüntüsü",
-    "not": "Ekran görüntüsünden aktarılmıştır; son metin doğrulaması önerilir.",
-    "metin": "Gam elinden benim zülfü siyahım\nPeykan degdi sinem yaraland: gel\nHida hakk: için aglatma beni\nBu gün sevda candan araland: gel\nGamdan hisar oldu mekanim yurdum\nJsitmez avazm dinlemez virdim\nBir değil bes değil on değil derdim\nDüğümler bas verdi siraland: gel\nHasretine vasil olam mi böyle\nMeenun'a da baki kahr mi Leyla\nOlümlit dünyadir gel helal eyle\nYiklendi barhanam gidelendi gel\nWe gekerse dertli sinem dag olmaz\nGünler gelir geger ömür gog olmaz\nNesterlidir yaralarin onulmaz\nGögerdi gevresi karland gel\nPir Sultan Abdal'um haftada ayda\nGinler gelir geger bulunmaz fayda\nGönül Hak arzular canim hayhayda"
+    "metin": "Gam elinden benim zülfü siyahım\nPeykan değdi sinem yaralandı gel\nHüda hakkı için ağlatma beni\nBu gün sevda candan aralandı gel\n\nGamdan hisar oldu mekanım yurdum\nİşitmez avazım dinlemez virdim\nBir değil beş değil on değil derdim\nDüğümler baş verdi sıralandı gel\n\nHasretine vasıl olam mı böyle\nMecnun'a da baki kalır mı Leyla\nÖlümlü dünyadır gel helal eyle\nYüklendi barhanam gidelendi gel\n\nNe çekerse dertli sinem dağ olmaz\nGünler gelir geçer ömür çoğ olmaz\nNeşterlidir yaraların onulmaz\nGöğerdi çevresi karlandı gel\n\nPir Sultan Abdal'ım haftada ayda\nGünler gelir geçer bulunmaz fayda\nGönül Hak arzular canım hayhayda\nToprağım üstüme kürelendi gel"
   },
   {
     "id": "ezeli-mahserde-aliyi-gordum",
@@ -325,8 +337,7 @@ window.DEYISLER = [
     "konular": [],
     "anilanlar": [],
     "kaynak": "Kullanıcı tarafından iletilen internet ekran görüntüsü",
-    "not": "Ekran görüntüsünden aktarılmıştır; son metin doğrulaması önerilir.",
-    "metin": "Ezeli mahşerde Ali'yi gördüm\nKevserden fakire icirir gider\nYaninda pir bektas veliyi gordudm\nElini sirtimdan geçirir gider\nHalime bir bakin sukurler edin\nAman diyen dosta dar gunde gidin\nYuce sevgiliye neyledin ettin\nAklimi basimdan alirda gider\nButun suclarimda sevap tad! var\nGöz bebeklerimde ali adi var\nGönlumde hakikat aşk atesi var\nRuhumu goklere ucurur gider."
+    "metin": "Ezeli mahşerde aliyi gördüm\nKevserden fakire içirir gider\nYanında pir bektaş veliyi gördüm\nElini sırtımdan geçirir gider\n\nHalime bir bakın şükürler edin\n\nAman diyen dosta dar günde gidin\nYüce sevgiliye neyledin ettin\nAklımı başımdan alırda gider\n\nBütün suçlarımda sevap tadı var\nGöz bebeklerimde ali adı var\nGönlümde hakikat aşk ateşi var\nRuhumu göklere uçurur gider."
   },
   {
     "id": "sahi-merdan-cosa-geldi",
@@ -335,9 +346,8 @@ window.DEYISLER = [
     "tur": "Deyiş",
     "konular": [],
     "anilanlar": [],
-    "kaynak": "Kullanıcı tarafından iletilen internet ekran görüntüsü",
-    "not": "Ekran görüntüsünden aktarılmıştır; son metin doğrulaması önerilir.",
-    "metin": "Şah-ı Merdan coşa geldi, sırrını âşikâr eyledi\nYagmuru yagdiran menim deyi ol Omer'e söyledi\nOldem simsgek yalabryup yedi sema gürledi\nHem sakidir hem bakidir nuru rahmanumatr Ali\nHam ciğer pareyi zöhra nuru gesmim Haydari\nOmer vard: ol Muhammed gitinda dedi beyan\nYa Muhammed Ali midir argu alanda gürleyen\nGarkt gerdün elinde mi surrt hikmet sdyliyen\nHem sakidir hem bakidir nuru rahmandtr Ali\nHem ciğer pareyi zohra nuru gesmim Haydari\nOl Muhammed buyurdu ki yektir Ali bir dedi\nHüvel evvel hüvel ahir her seye gadir dedi\nAliye sek getiren mutlaka kafir dedi\nHem sakidir hem bakidir nuru rahmandtr Ali\nHem eciğer pareyi zohra nuru gesmim Haydari\nLahmeke lahme buyurdu cismim Ali demmike\nAli benim vegim dedi züleelal: rabbike\nHükmü bagi adil handtr velailaha gayrüke\nHem sakidir hem bakidir nuru rahmandtr Ali\nHem ciğer pareyi zohra nuru gegmim Haydari\nKun deyince var eyledi onsekizbin alemi\nHem yazandir hem bozanabr left mafuz galemi\nCümle dertliler dermant yarelerin merhemi\nHem sakidir hem bakidir nuru rahmandtr Ali\nHem eciğer pareyi zöhra nuru gesmim Haydari\nSefil Alim akil ermez hikmetine Ali'nin\nSarraf olan kıymet bigsin geferine lalinin\nAstka maguk göründü aklin ald: delinin\nHem sakidir hem bakidir nuru rahmandtr Ali\nHem eiger pareyi zohra nuru gesmim Haydari"
+    "kaynak": "Deyiş. Çorumlu Halk Ozanları - Hüseyin Çırakman, Alev Yayınevi, Birinci Basım: Mart 1992, s.57-58.",
+    "metin": "Şahı Merdan coşa geldi, sırrı aşikar eyledi\nYağmuru yağdıran menim deyi ol Ömer'e söyledi\nOldem şimşek yalabıyup yedi sema gürledi\nHem sakidir hem bakidir nuru rahmanımıdır Ali\nHam ciğer pareyi zöhra nuru çeşmim Haydari\n\nÖmer vardı ol Muhammed gıtında dedi beyan\nYa Muhammed Ali midir arşu alanda gürleyen\nÇarkı gerdün elinde mi sırrı hikmet söyliyen\nHem sakidir hem bakidir nuru rahmandır Ali\nHem ciğer pareyi zöhra nuru çeşmim Haydari\n\nOl Muhammet buyurdu ki yektir Ali bir dedi\nHüvel evvel hüvel ahir her şeye gadir dedi\nAliye şek getiren mutlaka kafir dedi\nHem sakidir hem bakidir nuru rahmandır Ali\nHem ciğer pareyi zöhra nuru çeşmim Haydari\n\nLahmeke lahme buyurdu cismim Ali demmike\nAli benim veçim dedi zülcelalı rabbike\nHükmü bağı adil handır velailaha gayrüke\nHem sakidir hem bakidir nuru rahmandır Ali\nHem ciğer pareyi zöhra nuru çeşmim Haydari\n\nKun deyince var eyledi onsekizbin alemi\nHem yazandır hem bozandır lefı mafuz galemi\nCümle dertliler dermanı yarelerin merhemi\nHem sakidir hem bakidir nuru rahmandır Ali\nHem ciğer pareyi zöhra nuru çeşmim Haydari\n\nSefil Alim akıl ermez hikmetine Alinin\nSarraf olan kıymet biçsin geferine lalinin\nAşıka maşuk göründü aklın aldı delinin\nHem sakidir hem bakidir nuru rahmandır Ali\nHem ciğer pareyi zöhra nuru çeşmim Haydari"
   },
   {
     "id": "hak-bizi-mahrum-eyleme",
@@ -347,8 +357,7 @@ window.DEYISLER = [
     "konular": [],
     "anilanlar": [],
     "kaynak": "Kullanıcı tarafından iletilen internet ekran görüntüsü",
-    "not": "Ekran görüntüsünden aktarılmıştır; son metin doğrulaması önerilir.",
-    "metin": "Hak bizi mahrum eyleme hak bizi mahrum\neyleme\nKurulsun ulu divanlar kurulsun ulu divanlar |v |\nCanimizi serimizi canimizi serimizi\nvermeye gelmisiz canlar vermiye gelmisisiz\ncan\nHak La ilahe ilallah ilallah Şah ilallah\nAli Mürşit guzel Şah Şahim eyvallah eyvallah\nCemalullah Feyzullah La ilahe ilallah\nEsti muhabbet yelleri esti Esti muhabbet yelleri esti\nKokusu sarmis elleri kokusus armis elleri\nCennet baginin gülleri cennet baginin gulleri\nvermiye gelmisisiz canlar vermiye gelmisisiz canlar\nHak La ilahe ilallah ilallah Şah ilallah\nAli Mürşit guzel Şah Şahim eyvallah eyvallah\nCemalullah Feyzullah La ilahe ilallah\nMuhammed Ali Pirimiz Muhammed Ali Pirimiz\nKimseye çıkmaz sirrimiz kimseye çıkmaz sirrimiz\nGönüllerdir yerimiz gönullerdir yerimiz\nalmaya gelmisiz canlar almaya gelmisiz canlar\nHak La ilahe ilallah ilallah Şah ilallah\nAli Marsid guzel Şah Şahim eyvallah eyvallah\nCemalullah Feyzullah La ilahe ilallah\nPir Sultanim el aman Pir Sultanim el aman\nŞahdan gele bize ferman Şahdan gele bize ferman\nGtzel pirim derde derman guzel pirden derde\nderman\nAlmaya gelmisiz canlar Almaya gelmisiz canlar\nHak La ilahe ilallah ilallah Şah ilallah\nAli Marsid güzel Şah Şahim eyvallah eyvallah\nCemalullah Feyzullah La ilahe ilallah"
+    "metin": "Hak bizi mahrum eyleme hak bizi mahrum eyleme\nKurulsun ulu divanlar kurulsun ulu divanlar\nCanımızı serimizi canımızı serimizi\nvermeye gelmişiz canlar vermiye gelmişisiz can\nHak La ilahe ilallah ilallah Şah ilallah\nAli Mürşid güzel Şah Şahım eyvallah eyvallah\nCemalullah Feyzullah La ilahe ilallah\n\nEsti muhabbet yelleri esti Esti muhabbet yelleri esti\nKokusu sarmış elleri kokusus armış elleri\nCennet bağının gülleri cennet bağının gülleri\nvermiye gelmişisiz canlar vermiye gelmişisiz canlar\nHak La ilahe ilallah ilallah Şah ilallah\nAli Mürşid güzel Şah Şahım eyvallah eyvallah\nCemalullah Feyzullah La ilahe ilallah\n\nMuhammed Ali Pirimiz Muhammed Ali Pirimiz\nKimseye çıkmaz sırrımız kimseye çıkmaz sırrımız\nGönüllerdir yerimiz gönüllerdir yerimiz\nalmaya gelmişiz canlar almaya gelmişiz canlar\nHak La ilahe ilallah ilallah Şah ilallah\nAli Mürşid güzel Şah Şahım eyvallah eyvallah\nCemalullah Feyzullah La ilahe ilallah\nPir Sultanım el aman Pir Sultanım el aman\nŞahdan gele bize ferman Şahdan gele bize ferman\nGüzel pirim derde derman güzel pirden derde derman\nAlmaya gelmişiz canlar Almaya gelmişiz canlar\nHak La ilahe ilallah ilallah Şah ilallah\nAli Mürşid güzel Şah Şahım eyvallah eyvallah\nCemalullah Feyzullah La ilahe ilallah"
   },
   {
     "id": "hazreti-sahin-avazi",
@@ -358,8 +367,7 @@ window.DEYISLER = [
     "konular": [],
     "anilanlar": [],
     "kaynak": "Kullanıcı tarafından iletilen internet ekran görüntüsü",
-    "not": "Ekran görüntüsünden aktarılmıştır; son metin doğrulaması önerilir.",
-    "metin": "Hazret-i Şah'ın avazı\nTurna derler bir kugtadir\nAsast Wil deryasinda\nFurkas: bir dervistedir\nNil deryas: iki sak oldu\nSarard: gül benzim soldu\nBakist arslanda kaldi\nDarbi dahi bir kogtadir\nOzen Güzel Ali'm dzen\nVar kendine bir yar kazan\nHayrini serrini yazan\nSag yaninda feristedir\nAli'm eylemez benligi\nRalbinde tutmaz kinligi\nZilfikar'in keskinligi\nZerrecesi kiltetadir\nMuirde Pir Sultan'um mürde\nOzümüz asiti darda\nYemen'den ote bir yerde\nDahi Düldül savastadir"
+    "metin": "Hazret-i Şah'ın avazı\nTurna derler bir kuştadır\nAsası Nil deryasında\nHırkası bir derviştedir\n\nNil deryası iki şak oldu\nSarardı gül benzim soldu\nBakışı arslanda kaldı\nDarbı dahi bir koçtadır\n\nÖzen Güzel Ali'm özen\nVar kendine bir yar kazan\nHayrını şerrini yazan\nSağ yanında feriştedir\n\nAli'm eylemez benliği\nKalbinde tutmaz kinliği\nZülfikar'ın keskinliği\nZerrecesi kılıçtadır\n\nMürde Pir Sultan'ım mürde\nÖzümüz asılı darda\nYemen'den öte bir yerde\nDahi Düldül savaştadır"
   },
   {
     "id": "yuzunu-sevdigim-seyrana-cikmis",
@@ -369,8 +377,7 @@ window.DEYISLER = [
     "konular": [],
     "anilanlar": [],
     "kaynak": "Kullanıcı tarafından iletilen internet ekran görüntüsü",
-    "not": "Ekran görüntüsünden aktarılmıştır; son metin doğrulaması önerilir.",
-    "metin": "Salınıp gezdiğin yerler ah çeker\nÇiçekler Selamda Boynunu Eymis\nSallanir Selviler Güller Ah Çeker\nGözlerin Kapatmis Karş'! Sivas'!\nEdirne Istanbul Zilfin Pahas!\nGiyinmis Kusanmis Haslarin Hast\nGiyinmis Yesili Allar Ah Çeker\nMenendin Bulunmaz Gdrcti Revanda\nSam-l Diyarbekir Haleb-i Vanda\nAgalar El Pence Beyler Divanda\nGeda Gibi Nice Canlar Ah Çeker"
+    "metin": "Yüzünü sevdiğim seyrana çıkmış\nSalınıp gezdiğin yerler ah çeker\nÇiçekler selamda boynunu eymiş\nSallanır selviler güller ah çeker\n\nGözlerin kapatmış Kars'ı Sivas'ı\nEdirne İstanbul zilfin pahası\nGiyinmiş kuşanmış hasların hası\nGiyinmiş yeşili allar ah çeker\n\nMenendin bulunmaz Gürcü Revanda\nŞam-ı Diyarbekir Haleb-i Van'da\nAğalar el pençe beyler divanda\nGeda gibi nice canlar ah çeker"
   },
   {
     "id": "gucenme-ey-sofu-baba",
@@ -380,8 +387,7 @@ window.DEYISLER = [
     "konular": [],
     "anilanlar": [],
     "kaynak": "Kullanıcı tarafından iletilen internet ekran görüntüsü",
-    "not": "Ekran görüntüsünden aktarılmıştır; son metin doğrulaması önerilir.",
-    "metin": "Gücenme ey sofu baba\nBiz âşığiz kor değiliz\nVer bir selam al merhaba\nJkilige yar değiliz\nAdem olan adem sever\nAdalete boyun edger\nRul hakki dünyay: deger\nBiz cana kıyar değiliz\nGider Kul Mahzuni gider\nGider dostu tavaf eder\nBenim bildigim bu kadar\nBiz cahile uyar değiliz\nHudey hudey hür aşkına\nBiz igeriz pir aşkına\nAdaletsiz padigahin\nAtesler düsmüs kogküne"
+    "metin": "Gücenme ey sofu baba\nBiz aşığız kör değiliz\nVer bir selam al merhaba\nİkiliğe yar değiliz\n\nAdem olan adem sever\nAdalete boyun eğer\nKul hakkı dünyayı değer\nBiz cana kıyar değiliz\n\nGider Kul Mahzuni gider\nGider dostu tavaf eder\nBenim bildiğim bu kadar\nBiz cahile uyar değiliz\n\nHudey hudey hür aşkına\nBiz içeriz pir aşkına\nAdaletsiz padişahın\nAteşler düşmüş köşküne"
   },
   {
     "id": "ela-gozlerini-sevdigim-dilber-goster-cemalini",
@@ -391,8 +397,7 @@ window.DEYISLER = [
     "konular": [],
     "anilanlar": [],
     "kaynak": "Kullanıcı tarafından iletilen internet ekran görüntüsü",
-    "not": "Ekran görüntüsünden aktarılmıştır; son metin doğrulaması önerilir.",
-    "metin": "Göster Cemalini Görmeye Geldim\nBuselerin Derde Derman Dediler\nGergek Mi Sevdigim Sormaya Geldim\nSenin Âşıklarin Gdlmez Dediler\nAglayip Yasini Silmez Dediler\nSeni Seven Yigit Olmez Dediler\nGergek Mi Cananim Sormaya Geldim\nSari Gdltim Elden Ele Gezerim\nEla Gözla Yari Candan Severim\nDediler O Güzel Sararip Solmus\nHak Nasip Ederse Görmeye Geldim"
+    "metin": "Ela gözlerini sevdiğim dilber\nGöster cemalini görmeye geldim\nBuselerin derde derman dediler\nGerçek mi sevdiğim sormaya geldim\n\nSenin aşıkların gülmez dediler\nAğlayıp yaşını silmez dediler\nSeni seven yiğit ölmez dediler\nGerçek mi cananım sormaya geldim\n\nSarı gülüm elden ele gezerim\nEla gözlü yari candan severim\nDediler o güzel sararıp solmuş\nHak nasip ederse görmeye geldim"
   },
   {
     "id": "bir-ulu-sehide-tellalligim-var",
@@ -402,8 +407,7 @@ window.DEYISLER = [
     "konular": [],
     "anilanlar": [],
     "kaynak": "Kullanıcı tarafından iletilen internet ekran görüntüsü",
-    "not": "Ekran görüntüsünden aktarılmıştır; son metin doğrulaması önerilir.",
-    "metin": "Ben tellalım, pazar başım Ali'dir (Benim Efendim)\nEksik Alip Artik Satsam Yine Kar\nBen tellalım, pazar başım Ali'dir\ninza Malidir Alip Sattigim\nUcler Besler Kirklar Pazar Ettigim (Benim Efendim)\nimam Caferden Dükkan Tuttugum\nBen tellalım, pazar başım Ali'dir\nViraniyem Her Dem Hakka Yeterim\nTellal Olup Su Alemi Gezerim (Benim Efendim)\nKudretten Dikkanim Kendi Pazarim\nBen tellalım, pazar başım Ali'dir"
+    "metin": "Bir Ulu Şehide Tellallığım Var\nBen tellalım pazar başım Alidir (Benim efendim)\nEksik alıp artık satsam yine kar\nBen tellalım pazar başım Alidir\n\nİrıza malıdır alıp sattığım\nÜçler beşler kırklar pazar ettiğim (Benim efendim)\nİmam Caferden dükkanı tuttuğum\nBen tellalım pazar başım Alidir\n\nViraniyem her dem Hakka yeterim\nTellal olup şu alemi gezerim (Benim efendim)\nKudretten dükkanım kendi pazarım\nBen tellalım pazar başım Alidir"
   },
   {
     "id": "nesini-soyleyim-canim-efendim",
@@ -413,8 +417,7 @@ window.DEYISLER = [
     "konular": [],
     "anilanlar": [],
     "kaynak": "Kullanıcı tarafından iletilen internet ekran görüntüsü",
-    "not": "Ekran görüntüsünden aktarılmıştır; son metin doğrulaması önerilir.",
-    "metin": "Gayri düzen tutmaz telimiz bizim\nArzuhal eylesem yar yar deftere\nsigmaz\nOmuzdan kesilmis kölümuz bizim\nBenim bu gidise aklim ermiyor\nFukara halinden kimse bilmiyor\nPadişah sikkesi yar yar selam vermiyor\nKefensiz kalacak ölümüz bizim\nSerdari halimiz böyle n'olacak\nKisa çöp uzundan hakkin alacak\nMamurlar yikilip yar yar viran olacak\nAkibet alinir öcimiz bizim"
+    "metin": "Nesini söyleyim canım efendim\nGayrı düzen tutmaz telimiz bizim\nArzuhâl eylesem yâr yâr deftere sığmaz\nOmuzdan kesilmiş kolumuz bizim\n\nBenim bu gidişe aklım ermiyor\nFukara hâlinden kimse bilmiyor\nPadişah sikkesi yâr yâr selâm vermiyor\nKefensiz kalacak ölümüz bizim\n\nSerdari hâlımız böyle n'olacak\nKısa çöp uzundan hakkın alacak\nMamurlar yıkılıp yâr yâr viran olacak\nAkıbet alınır öcümüz bizim"
   },
   {
     "id": "hak-icin-kendini-kurban-eyleyen",
@@ -424,8 +427,7 @@ window.DEYISLER = [
     "konular": [],
     "anilanlar": [],
     "kaynak": "Kullanıcı tarafından iletilen internet ekran görüntüsü",
-    "not": "Ekran görüntüsünden aktarılmıştır; son metin doğrulaması önerilir.",
-    "metin": "Hak için kendini kurban eyleyen\nŞah-i Merdan oglu İmam Hüseyin\nCümle erenlere ferman eyleyen\nErenler serveri İmam Hüseyin\nMuhammed Ali'nin gesmi geragt\nErenler bagunin bir güli bagi\nCiğerler paresi gönül duragi\nGözlerimin nuru İmam Hüseyin\nBatinin sultant müminler Şah\nGayib aleminin gems ile maht\nŞah Hüseyin'im deyü ederler ahi\nMatem ile zari İmam Hüseyin\nCeddi Muhammed'dir atast Ali\nAnast Fatima cihana veli\nCümle evliyalar ederler beli\nEvliyalar sirrt İmam Hüseyin\nPir Sultan Abdal tut damenin anin\nDügmanina düsman ol hanedanin\nDü gesmi değil mi Şah-: Merdan''in\nErenler hünkari İmam Hüseyin"
+    "metin": "Hak için kendini kurban eyleyen\nŞah-ı Merdan oğlu İmam Hüseyin\nCümle erenlere ferman eyleyen\nErenler serveri İmam Hüseyin\n\nMuhammed Ali'nin çeşmi çerağı\nErenler bağının bir gülü bağı\nCiğerler paresi gönül durağı\nGözlerimin nuru İmam Hüseyin\n\nBatının sultanı müminler Şahı\nGayib aleminin şems ile mahı\nŞah Hüseyin'im deyü ederler ahı\nMatem ile zarı İmam Hüseyin\n\nCeddi Muhammed'dir atası Ali\nAnası Fatıma cihana veli\nCümle evliyalar ederler beli\nEvliyalar sırrı İmam Hüseyin\n\nPir Sultan Abdal tut damenin anın\nDüşmanına düşman ol hanedanın\nDü çeşmi değil mi Şah-ı Merdan'ın\nErenler hünkarı İmam Hüseyin"
   },
   {
     "id": "haydari-gordum",
@@ -435,8 +437,7 @@ window.DEYISLER = [
     "konular": [],
     "anilanlar": [],
     "kaynak": "Kullanıcı tarafından iletilen internet ekran görüntüsü",
-    "not": "Ekran görüntüsünden aktarılmıştır; son metin doğrulaması önerilir.",
-    "metin": "Kandilden içeri Bir Nihan iken\niste Ben O Zaman Haydar'! Gordüm\nCihan Derya iken Gök Derya iken\niste Ben O Zaman Haydar'! Gordüm\nYetmis Yil Havada Döndüğü Zaman\nTutusup Kanadi Yandigi Zaman\nCebrail Kubbeye Kondugu Zaman\niste Ben O Zaman Haydar' Gördüm\nSelman'in Carina Yettigi Demde\nSüleyman'in Elin Tuttugu Demde\nifriti Ummana Attig: Demde\niste Ben O Zaman Haydar' Gördüm\nDaimi'yim Demden Deme Göçünce\nÂşıklara Nurdan Libas Bicince\nKirklarin Ceminde Engür İçince\niste Ben O Zaman Haydar' Gördüm"
+    "metin": "Kandilden içeri bir nihan iken\nİşte ben o zaman Haydar'ı gördüm\nCihan derya iken gök derya iken\nİşte ben o zaman Haydar'ı gördüm\n\nYetmiş yıl havada döndüğü zaman\nTutuşup kanadı yandığı zaman\nCebrail kubbeye konduğu zaman\nİşte ben o zaman Haydar'ı gördüm\n\nSelman'ın carına yettiği demde\nSüleyman'ın elin tuttuğu demde\nİfriti ummana attığı demde\nİşte ben o zaman Haydar'ı gördüm\n\nDaimi'yim demden deme göçünce\nAşıklara nurdan libas biçince\nKırkların ceminde engür içince\nİşte ben o zaman Haydar'ı gördüm"
   },
   {
     "id": "menzil-almak-ister-isen",
@@ -446,8 +447,7 @@ window.DEYISLER = [
     "konular": [],
     "anilanlar": [],
     "kaynak": "Kullanıcı tarafından iletilen internet ekran görüntüsü",
-    "not": "Ekran görüntüsünden aktarılmıştır; son metin doğrulaması önerilir.",
-    "metin": "Menzil Almak ister isen\nGöntl Sabreyle Sabreyle\nDostu Bulmak ister isen\nGönül Sabreyle Sabreyle\nSabredenler Menzil Alir\nSabretmeyen Yolda Kalir\nSabreden Maksudun Bulur\nGöntl Sabreyle Sabreyle\nYanar Âşıklarin Nari\nBulbul Guile Eder Zari\nSabredenler Bulur Yârı\nGöntl Sabreyle Sabreyle\nBu Âşıklik Bir Mihnettir\nHaktan Bize Hidayettir\nSabrin Sonu Selamettir\nGönül Sabreyle Sabreyle\nDaimi Cos Edip Caglan\nPervan Olup Nare Daglan\nTevekkil Ol Pire Bağlan\nGöntl Sabreyle Sabreyle"
+    "metin": "Menzil almak ister isen\nGönül sabreyle sabreyle\nDostu bulmak ister isen\nGönül sabreyle sabreyle\n\nSabredenler menzil alır\nSabretmeyen yolda kalır\nSabreden maksudun bulur\nGönül sabreyle sabreyle\n\nYanar aşıkların narı\nBülbül güle eder zarı\nSabredenler bulur yarı\nGönül sabreyle sabreyle\n\nBu aşıklık bir mihnettir\nHaktan bize hidayettir\nSabrın sonu selamettir\nGönül sabreyle sabreyle\n\nDaimi coş edip çağlan\nPervan olup nare dağlan\nTevekkül ol pire bağlan\nGönül sabreyle sabreyle"
   },
   {
     "id": "bana-hakki-soran-ogul",
@@ -457,8 +457,7 @@ window.DEYISLER = [
     "konular": [],
     "anilanlar": [],
     "kaynak": "Kullanıcı tarafından iletilen internet ekran görüntüsü",
-    "not": "Ekran görüntüsünden aktarılmıştır; son metin doğrulaması önerilir.",
-    "metin": "Haber al âşık sazından\nGögsti Peygamber ağacı\nKilifi Ali Bezinden (Ali Yar Ali Yar)\nElif Hakk'a Nisan Sap!\nO Gercgege Acar Kapı\nEsikten Baslayan Yap\nSari Turna Avazindan (Ali Yar Ali Yar)\nŞah Perdeye Basan Parmak\nNiyaz Eyler Hakk'a Varmak\nEzgi Olup Akan Irmak\nHak İmamlar Davazindan (Ali Yar Ali Yar)\n' Sancilar Dolunca Cim'e\nBas Eğerek Gelir Cem'e\nElbette Sarilir Dem'e\nAcist Canan Nazindan (Ali Yar Ali Yar)\nSitk lle Daya Bagrina\nDerman Yetirir Agrina\nOl Mahbubun Diyarina\nHisse Götürtir Sizindan (Ali Yar Ali Yar)\nCevri Bunda Dilli Kur'an\nHem Erkanti Yollu Kur''an\nElimizde Telli Kur'an\nYurdrdz Hakk'in Izinden (Ali Yar Ali Yar)"
+    "metin": "Bana Hakkı Soran Oğul\nHaber al aşık sazından\nGöğsü peygamber ağacı\nKılıfı Ali bezinden (Ali yar Ali yar)\n\nElif Hakk'a nişan sapı\nO gerçeğe açar kapı\nEşikten başlayan yapı\nSarı turna avazından (Ali yar Ali yar)\n\nŞah perdeye basan parmak\nNiyaz eyler Hakk'a varmak\nEzgi olup akan ırmak\nHak imamlar düvazından (Ali yar Ali yar)\n\nSancılar dolunca cim'e\nBaş eğerek gelir cem'e\nElbette sarılır dem'e\nAcısı canan nazından (Ali yar Ali yar)\n\nSıtk ile daya bağrına\nDerman yetirir ağrına\nOl mahbubun diyarına\nHisse götürür sızından (Ali yar Ali yar)\n\nCevri bunda dilli Kur'an\nHem erkanlı yollu Kur'an\nElimizde telli Kur'an\nYürürüz Hakk'ın izinden (Ali yar Ali yar)"
   },
   {
     "id": "egildim-bir-dolu-ictim",
@@ -468,8 +467,7 @@ window.DEYISLER = [
     "konular": [],
     "anilanlar": [],
     "kaynak": "Kullanıcı tarafından iletilen internet ekran görüntüsü",
-    "not": "Ekran görüntüsünden aktarılmıştır; son metin doğrulaması önerilir.",
-    "metin": "Eğildim bir dolu içtim\\nDost elinden, pir elinden\nDERTSIZ IDIM DERDE DüSTüM\nEğildim bir dolu içtim\\nDost elinden, pir elinden\nGERCEK BU ZAMANA KALMAZ\nHAKKA ERISENLER OLMEZ\nBüRDA OLEN ORDA OLMEZ\nKORKMAM OLüMDEN OLüMDEN\nDOSTüN BAHCASINDA GEZDIM\nHEM OKüDüM HEMI YAZDIM\nBEN PIRIMDEN AYRI GEZDIM\nELIN DILINDEN DILINDEN\nDOSTüN BAHGASINDA GüLLER\nHALIMDAN NE BiLSIN ELLER\nOTüSüR SAKIR BüLBüLLER\nGüLüN ELINDEN ELINDEN\nCAYIR CIMENLER BüYüDU\nLALE SüMBüLLER YüRüDU\nDAGLARIN KARI ERIDi\nYELIN ELINDEN ELINDEN\nTüTMüSAM CEMAL ELINDEN\nKORKMANAM SIRAT YOLüNDAN\nSAKIN KüL IBRAHIM SAKIN\nKOTU DILINDEN DiLINDEN"
+    "metin": "Eğildim bir dolu içtim\nDost elinden pir elinden\nDertsiz idim derde düştüm\nDost elinden pir elinden\n\nGerçek bu zamana kalmaz\nHakka erişenler ölmez\nBurda ölen orda ölmez\nKorkmam ölümden ölümden\n\nDostun bahçasında gezdim\nHem okudum hemi yazdım\nBen pirimden ayrı gezdim\nElin dilinden dilinden\n\nGerçek bu zamana kalmaz\nHakka erişenler ölmez\nBurda ölen orda ölmez\nKorkmam ölümden ölümden\n\nDostun bahçasında güller\nHalımdan ne bilsin eller\nÖtüşür şakır bülbüller\nGülün elinden elinden\n\nGerçek bu zamana kalmaz\nHakka erişenler ölmez\nBurda ölen orda ölmez\nKorkmam ölümden ölümden\n\nÇayır çimenler büyüdü\nLale sümbüller yürüdü\nDağların karı eridi\nYelin elinden elinden\n\nGerçek bu zamana kalmaz\nHakka erişenler ölmez\nBurda ölen orda ölmez\nKorkmam ölümden ölümden\n\nTutmuşam cemal elinden\nKorkmanam sırat yolundan\nSakın Kul İbrahim sakın\nKötü dilinden dilinden\n\nGerçek bu zamana kalmaz\nHakka erişenler ölmez\nBurda ölen orda ölmez\nKorkmam ölümden ölümden"
   },
   {
     "id": "hasretin-beni-hasta-eyledi",
@@ -479,8 +477,7 @@ window.DEYISLER = [
     "konular": [],
     "anilanlar": [],
     "kaynak": "Kullanıcı tarafından iletilen internet ekran görüntüsü",
-    "not": "Ekran görüntüsünden aktarılmıştır; son metin doğrulaması önerilir.",
-    "metin": "Hasretin beni hasta eyledi\nHalimi sormaya dost sen mi geldin\nBu garip gdnlümün bagi bostani\nAyvasi turuncu dost sen mi geldin\nBülbüller tüyor dostun baginda\nArzu manim kaldt gögsün aginda\nEllerim kelepee cellat ugrunda\nKollarim gdzmeye dost sen mi geldin\nAbdal Pir Sultan'im sen seni düsün\nGüzelsin sultanim bulunmaz esin\nGiyinmis kusanmis türlü kumagin\nBezenmis bedesten sar sen mi geldin"
+    "metin": "Hasretin beni hasta eyledi\nHalimi sormaya dost sen mi geldin\nBu garip gönlümün bağı bostanı\nAyvası turuncu dost sen mi geldin\n\nBülbüller ötüyor dostun bağında\nArzu manım kaldı göğsün ağında\nEllerim kelepçe cellat uğrunda\nKollarım çözmeye dost sen mi geldin\n\nAbdal Pir Sultan'ım sen seni düşün\nGüzelsin sultanım bulunmaz eşin\nGiyinmiş kuşanmış türlü kumaşın\nBezenmiş bedesten sar sen mi geldin"
   },
   {
     "id": "bir-guzelin-asigiyim-erenler",
@@ -490,8 +487,7 @@ window.DEYISLER = [
     "konular": [],
     "anilanlar": [],
     "kaynak": "Kullanıcı tarafından iletilen internet ekran görüntüsü",
-    "not": "Ekran görüntüsünden aktarılmıştır; son metin doğrulaması önerilir.",
-    "metin": "Bir güzelin âşığıyım erenler\nOnun için taşa tutar el beni\nGündüz hayalimde, geçe düşümde\nKumdan kuma savuruyor yel beni\n\nAğ gül olsam ağ gerdana sokulsam\nKemer olsam ince bele sarılsam\nKöle olsam pazarlarda satılsam\nYârim deyi al sinene sar beni\n\nPir Sultan Abdal'ım gamzeler oktur\nHezaran sinemde yaralar çoktur\nBenim senden özge sevdiğim yoktur\nİnanmazsan ol Allah'a sor beni"
+    "metin": "Bir güzelin aşığıyım erenler\nOnun için taşa tutar el beni\nGündüz hayalimde gece düşümde\nKumdan kuma savuruyor el beni\n\nAğ gül olsam ağ gerdana sokulsam\nKemer olsam ince bele sarılsam\nKöle olsam pazarlarda satılsam\nYarim deyi al sinene sar beni\n\nPir Sultan Abdal'ım gamzeler oktur\nHezaren sinemde yaralar çoktur\nBenim senden özge sevdiğim yoktur\nİnanmazsan ol Allah'a sal beni"
   },
   {
     "id": "efendim-efendim-canim-efendim",
@@ -501,8 +497,7 @@ window.DEYISLER = [
     "konular": [],
     "anilanlar": [],
     "kaynak": "Kullanıcı tarafından iletilen internet ekran görüntüsü",
-    "not": "Ekran görüntüsünden aktarılmıştır; son metin doğrulaması önerilir.",
-    "metin": "Efendim efendim, canım efendim\nBEN SENIN KüLüNAM SEN BENIM SüLTANIM\nYüZüN SEMS-i KAMER GOZLERIN NüRDüR\nAYIN HiILALINE BENZER KASLARIN\nON SEKIZ BIN ALEM HüSNüNE KüLDüR\nLABIN KEVSER OLMüS DüRDüR DISLERIN\nSENi SEVENLERIN CAN ICINDE CANISIN\nASIKLAR KATREDIR SEN UMMANISIN\nGONüL BiR GEMIDIR SEN DüMENISIN\nYELKEN AGMAK iSTER BU DERVISLERIN\nCEMALIN BENZETTIM UMMüL KITABA"
+    "metin": "Efendim efendim canım efendim\nBen senin kulunam sen benim sultanım\n\nYüzün şems-i kamer gözlerin nurdur\nAyın hilaline benzer kaşların\nOn sekiz bin alem hüsnüne kuldur\nLebin kevser olmuş dürdür dişlerin\n\nSeni sevenlerin can içinde canısın\nAşıklar katredir sen ummanısın\nGönül bir gemidir sen dümenisin\nYelken açmak ister bu dervişlerin\n\nCemalin benzettim ümmül kitaba\nAşıklar zerredir sen afitaba\nVirani kusurum gelmez hesaba\nAffeyle sultanım cümle suçlarım"
   },
   {
     "id": "harabat-ehliyiz-mestaneyiz-biz",
@@ -512,8 +507,7 @@ window.DEYISLER = [
     "konular": [],
     "anilanlar": [],
     "kaynak": "Kullanıcı tarafından iletilen internet ekran görüntüsü",
-    "not": "Ekran görüntüsünden aktarılmıştır; son metin doğrulaması önerilir.",
-    "metin": "Âlemin nadanı, bigânesiyiz biz\nVahdet Sarabindan Içmek Istersen\nBizden ig Sarabi Meyhaneyiz Biz\nAli Dost Veli Dost Da Deli Dost\nSerimizden Esen Sevda Yelidir\nBizi Harap Eden aşkın Selidir\nMuhabbet Kevserdir Saki Ali'dir\nOl Saki Elinden Mestaneyiz Biz\nAli Dost Veli Dost Da Deli Dost\nNihad Güller Agçmis Dostun Baginda\nGunesler Yayilmis Her Ciraginda\nMuhabbet Bezminden Yar Otaginda\nNazimiz Çekilir Canantyiz Biz\n# Ali Dost Veli Dost Da Deli Dost"
+    "metin": "Harabat Ehliyiz Mestaneyiz Biz\nAlemin nadanı biganeyiz biz\nVahdet şarabından içmek istersen\nBizden iç şarabı meyhaneyiz biz\nAli dost veli dost da deli dost\n\nSerimizden esen sevda yelidir\nBizi harap eden aşkın selidir\nMuhabbet kevserdir saki Ali'dir\nOl saki elinden mestaneyiz biz\nAli dost veli dost da deli dost\n\nNihad güller açmış dostun bağında\nGüneşler yayılmış her çırağında\nMuhabbet bezminden yar otağında\nNazımız çekilir cananıyız biz\nAli dost veli dost da deli dost"
   },
   {
     "id": "bu-kadar-cevretme-aziz-sultanim",
@@ -523,8 +517,7 @@ window.DEYISLER = [
     "konular": [],
     "anilanlar": [],
     "kaynak": "Kullanıcı tarafından iletilen internet ekran görüntüsü",
-    "not": "Ekran görüntüsünden aktarılmıştır; son metin doğrulaması önerilir.",
-    "metin": "Ya n'olur insafa gel bazı bazı\nHalime Rahmeyle Ruhi Revanim\nBendöne Keremler Kil Bazi Baz!\nCoskun Caylar Gibi Bulanip Akma\nGamzeyi Hanceri Sineme Cakma\nÇok ise Gunahim Kusura Bakma\nBildiğinden Sasar Kul Bazi Bazi\nSen Arifsin Ne Dedigimi Bilirsin\nYarali Gönlüme Melhem Olursun\nBen Geldikge Melul Mahzun Durursun\nSadeyle Gönlümd Gil Bazi Bazi\n'\nHuiseyinim Derki Leb'i Balimsin\nCanimin Canani Selvi Dalimsin\nNe Bir Merhametsiz Kanli Zalimsin\nJ Perigan Gönlümt Sor Bazi Bazi"
+    "metin": "Bu Kadar Cevretme Aziz Sultanım\nYa n'olur insafa gel bazı bazı\nHalime rahmeyle ruhi revanım\nBendêne keremler kıl bazı bazı\n\nCoşkun çaylar gibi bulanıp akma\nGamzeyi hançeri sineme çakma\nÇok ise günahım kusura bakma\nBildiğinden şaşar kul bazı bazı\n\nSen arifsin ne dediğimi bilirsin\nYaralı gönlüme melhem olursun\nBen geldikçe melul mahzun durursun\nŞadeyle gönlümü gül bazı bazı\n\nHüseyinim derki leb'i balımsın\nCanımın cananı selvi dalımsın\nNe bir merhametsiz kanlı zalımsın\nPerişan gönlümü sor bazı bazı"
   },
   {
     "id": "eyyup-gibi-sabir-eyle",
@@ -534,8 +527,7 @@ window.DEYISLER = [
     "konular": [],
     "anilanlar": [],
     "kaynak": "Kullanıcı tarafından iletilen internet ekran görüntüsü",
-    "not": "Ekran görüntüsünden aktarılmıştır; son metin doğrulaması önerilir.",
-    "metin": "Eyyüp gibi sabır eyle\nimtihandir yara gönül\nHer haline sukur eyle\nMevlam verir gara gönül\nMeyva dolu dalin olsa\nDeryalarda salin olsa\nKarun kadar malin olsa\nGuvenme sen vara gönül\nKanaat en buyuk kardir\nGaflet uykusu zarardir\nHer serrin bir hayri vardir\nSerde hayir ara Gönül"
+    "metin": "Eyyüp gibi sabır eyle\nİmtihandır yara gönül\nHer haline şükür eyle\nMevlam verir çara gönül\n\nMeyva dolu dalın olsa\nDeryalarda salın olsa\nKarun kadar malın olsa\nGüvenme sen vara gönül\n\nKanaat en büyük kârdır\nGaflet uykusu zarardır\nHer şerrin bir hayrı vardır\nŞerde hayır ara gönül"
   },
   {
     "id": "bugun-bize-pir-geldi",
@@ -544,9 +536,8 @@ window.DEYISLER = [
     "tur": "Deyiş",
     "konular": [],
     "anilanlar": [],
-    "kaynak": "Kullanıcı tarafından iletilen internet ekran görüntüsü",
-    "not": "Ekran görüntüsünden aktarılmıştır; son metin doğrulaması önerilir.",
-    "metin": "Bugün bize pir geldi\nGülleri taze geldi\nÖnü sıra Kanber'i\nAli Murtaza geldi\n\nAli benim şahımdır\nKıble, kıblegâhımdır\nMiraçtaki Muhammed\nO benim padişahımdır\n\nPadişahım Yaradan\nOkur ağdan karadan\nBen pirden ayrılalı\nKaç yıl geçti aradan\n\nEyvallah şahım eyvallah\nAli sensin güzel şah\nİllallah şahım illallah\nHak lâ ilahe illallah\n\nAramı uzattılar\nYarama tuz attılar\nFazlı'dan bir kul geldi\nBedestanda sattılar\n\nSatarlar bedestanda\nSes gelir gülistanda\nMuhammed'in hatemi\nGülizar'dır aslanda\n\nGülizar'ım aslanım\nSevdasını çekerim\nBen pirden ayrılalı\nGözyaşımı dökerim\n\nYezit bir dert eyledi\nİmamlar vird eyledi\nŞahım bir şehir yaptı\nKapısın dört eyledi\n\nDört eyledi kapısın\nLâl ü cevher yapısın\nYezitler şehit etti\nİmamların hepisi\n\nHasan'a ağı ezdiler\nHüseyin'e nice kıydılar\nZeynel ile Bakır'ı\nBir zindana koydular\n\nZindan değil cezadır\nCafer, Kazım, Rıza'dır\nRıza'nın bin bir ismi\nYollarını gözedir\n\nTaki Naki ağladı\nGözyaşını çağladı\nAsker ile Mehdi'yi\nOn İki'ye bağladı\n\nOn İki'dir katarım\nTürlü meta satarım\nYükümüz cevherdendir\nMüşteriye satarım\n\nHatayi'm hâl çağında\nHak gönül alçağında\nYüz bin Kâbe yapmaktır\nBir gönül al çağında"
+    "kaynak": "turkuler.com (Erzincan/Tercan - Âşık İsmail Daimi - TRT repertuvarı)",
+    "metin": "Bugün bize pir geldi\nGülleri taze geldi\nÖnü sıra Kanberi\nAli Murtaza geldi\n\nAli benim şahımdır\nKıble kıblegahımdır\nMiraçtaki Muhammed\nO benim padişahımdır\n\nPadişahım yaradan\nOkur ağdan karadan\nBen pirden ayrılalı\nKaç yıl geçti aradan\nYüzyıl geçti aradan\nEyvallah şahım eyvallah alı sensin güzel şah\nİllallah şahım illallah Hak la ilaha illallah\nHak ilaha illallah\nAklımızdadır illallah eyvallah şahım eyvallah\nAli birdir güzel şah eyvallah pirim eyvallah\n\nPadişahım yaradan\nOkur ağdan karadan\nBen pirden ayrılalı\nYüz yıl geçti aradan\nAramı uzattılar\nYarama tuz attılar\nFazlıdan bir kul geldi\nBedestanda sattılar\nSatarlar bedestanda\nSes gelir gülistanta\nMuhammed'in hatemi\nBülgüzardır aslanda\n\nGelgüzarım aslanım\nSevdasını çekerim\nBen pirden ayrılalı\nGözyaşımı dökerim\nGözyaşımı dökerim\nDökerim gözyaşımı\nGör Mevlanın işini\nKeşiş kurban eyledi\nYedi oğlunun başını\n\nKeşiş kurban eyledi\nNe hoş bir an eyledi\nYeryüzünde melekler\nHepsi figan eyledi\nFigan ederler melekler\nKabul olsun dilekler\nYezit bir dert eyledi\nO dert beni del eyler\nEyvallah şahım eyvallah eyvallah şahım eyvallah\nHak la ilaha illallah\nEyvallah şahım eyvallah eyvallah pirim eyvallah\n\nYezit bir dert eyledi\nİmamlar vird eyledi\nŞahım bir şehir yaptı\nKapusun dört eyledi\nDört eyledi kapusun\nLalu cevher yapusun\nYezidler şehit etti\nİmamların hepisin\nLa ilaha illallah illallah Şah illallah\nLa ilaha illallah\nEyvallah şahım eyvallah eyvallah pirim eyvallah\n\nHasan'a ağu ezdiler\nHüseyne nice kıydılar\nZeynel ile Bakır'ı\nBir zindana koydular\nZindan değil cezadır\nCafer Kazım Rıza'dır\nRıza'nın binbir ismi\nYollarını gözedir\nTaki Naki ağladı\nGözyaşını çağladı\nAsker ile Mehdi'yi\nOniki'ye bağladı\n\nOniki'dir katarım\nTürlü metah satarım\nYükümüz cevherdendir\nMüşteriye satarım\nSatarım müşteriye kervan kalka yürüye\nCebrail'i eş etti cennetteki hürüye\nHürüye eş eğledi hatırın hoş eyledi\nKuluna kanat verdi havada kuş eyledi\nHavada kuş eyledi\nKuş eyledi havada gezer düzde ovada\nMelekler saf saf oldu el kaldırmış duada\n\nHatayım hal çağında Hak gönül alçağında\nYüzbin Kabe yapmazsa bir gönül alçağında\nHak la ilaha illallah illallah Şah illallah\nLa ilaha illallah\nEyvallah şahım eyvallah eyvallah pirim eyvallah"
   },
   {
     "id": "surune-surune-kapina-geldim",
@@ -556,8 +547,7 @@ window.DEYISLER = [
     "konular": [],
     "anilanlar": [],
     "kaynak": "Kullanıcı tarafından iletilen internet ekran görüntüsü",
-    "not": "Ekran görüntüsünden aktarılmıştır; son metin doğrulaması önerilir.",
-    "metin": "Sürüne sürüne kapına geldim\nHalimdan anlayan yarim olsaydt\nUrgani boynunda durur gezerdim\nHakk'in divaninda darim olsaydi\n(Destur divaninda yerim olsayd:)\nSen ulu canansin ben de kulunum\nDilerim sevdigim verme zulumun\n(Dilerim kimseye verme zulumun)\nEğer sen Leyla'ysan ben de Mecnun'um\nBir şahra kösede yerim olsaydt\nBeyhani bileydi derman olurdu\nCevheri olsayd: kervan olurdu\nBelki de Musir'a sultan olurdu\nYusuf-i Kenan'in nurum olsayd\neee\nFarkl son dortlük\nBeyhani bilseydim derman olurdum\nCevherim olsaydi kervan olurdum\nElbette Musir'a sultan olurdum\nYusufu Kenan gibi sabrim olsaydt\nAsitk Beyhani\nErzincan"
+    "metin": "Sürüne sürüne kapına geldim\nHalımdan anlayan yarim olsaydı\nUrganı boynunda durur gezerdim\nHakk'ın divanında darım olsaydı\n(Destur divanında yerim olsaydı)\n\nSen ulu canansın ben de kulunum\nDilerim sevdiğim verme zulumun\n(Dilerim kimseye verme zulumun)\nEğer sen Leyla'ysan ben de Mecnun'um\nBir sahra köşede yerim olsaydı\n\nBeyhani bileydi derman olurdu\nCevheri olsaydı kervan olurdu\nBelki de Mısır'a sultan olurdu\nYusuf-i Kenan'ın nurum olsaydı"
   },
   {
     "id": "pir-sultanim-su-dunyaya",
@@ -567,8 +557,7 @@ window.DEYISLER = [
     "konular": [],
     "anilanlar": [],
     "kaynak": "Kullanıcı tarafından iletilen internet ekran görüntüsü",
-    "not": "Ekran görüntüsünden aktarılmıştır; son metin doğrulaması önerilir.",
-    "metin": "Pir Sultan'ım şu dünyaya\nDolu geldim dolu benim\nBilmeyeneler bilsin beni\nBen Ali'yim Ali benim\nCosma deli gönlüm cosma\nCosup da kazandan tasma\nUeyüz altmig tane gesme\nSergesme'nin gonlü benim\nCarstlarda dolanirim\nBen Hakk'im Hak'tan gelirim\nOn iki imam hak bilirim\nDedikleri deli benim\nKırkların kırk arşın uzar\nMünkirin kökünü kazar\nCars: pazarlarda gezer\nDedikleri deli benim\nPir Sultan kapinda kuldur\nBunu bilmek müskül haldir\nAli'nin ihsani boldur\nŞah: Merdan kulu benim"
+    "metin": "Pir Sultan'ım şu dünyaya\nDolu geldim dolu benim\nBilmeyeneler bilsin beni\nBen Ali'yim Ali benim\n\nCoşma deli gönlüm coşma\nCoşup da kazandan taşma\nÜçyüz altmış tane çeşme\nSerçeşme'nin gönlü benim\n\nÇarşılarda dolanırım\nBen Hakk'ım Hak'tan gelirim\nOn iki imam hak bilirim\nDedikleri deli benim\n\nKılıcın kırk arşın uzar\nMünkirin kökünü kazar\nÇarşı pazarlarda gezer\nDedikleri deli benim\n\nPir Sultan kapında kuldur\nBunu bilmek müşkül haldir\nAli'nin ihsanı boldur\nŞah'ı Merdan kulu benim"
   },
   {
     "id": "ceke-ceke-ben-bu-dertten-olurum",
@@ -578,8 +567,7 @@ window.DEYISLER = [
     "konular": [],
     "anilanlar": [],
     "kaynak": "Kullanıcı tarafından iletilen internet ekran görüntüsü",
-    "not": "Ekran görüntüsünden aktarılmıştır; son metin doğrulaması önerilir.",
-    "metin": "Çeke çeke ben bu dertten ölürüm\nSeversen Ali'yi de degme yarama\nAli'nin yolunda serim veririm\nSeversen Ali'yi de degme (yarama)\nYarama yarama yarama oy\nBu yurt senin değil de\n(konar gögersin konar gögersin)\nBu yurt senin değil de konar gögersin\nAli'nin dolusunu bir gün igersin\nKörpe guzulardan da nasil gegersin\nSeversen Ali'yi de degme (yarama)\nYarama yarama yarama oy\nAli'nin yarasi da\n(Hak yarasidir Hak yarasidir)\nAli'nin yarast da Hak yarasidir\nBuna melhem olmaz dil yarastdir\nAli'yi sevmiyen de Hakk'n nesidir\nSeversen Ali'yi de degme (yarama)\nYarama yarama yarama oy\nPir Sultan Abdal'im da\n(deftere yazar deftere yazar)\nPir Sultan Abdal'im da deftere yazar\nHilebaz yar ile de olur mu bazar\nBir melhem galmazsa da yaralar azar\nSeversen Ali'yi de degme (yarama)\nYarama yarama yarama oy\nSeversen Ali'yi de degme (yarama yarama) dost"
+    "metin": "Çeke çeke de ben bu dertten ölürüm\nSeversen Ali'yi de değme yarama\nAli'nin yolunda serim veririm\nSeversen Aliyi de değme (yarama)\nYarama yarama yarama oy\nBu yurt senin değil de\n(konar göçersin konar göçersin)\n\nBu yurt senin değil de konar göçersin\nAli'nin dolusunu bir gün içersin\nKörpe guzulardan da nasıl geçersin\nSeversen Aliyi de değme (yarama)\nYarama yarama yarama oy\nAli'nin yarası da\n(Hak yarasıdır Hak yarasıdır)\n\nAli'nin yarası da Hak yarasıdır\nBuna melhem olmaz dil yarasıdır\nAli'yi sevmiyen de Hakk'ın nesidir\nSeversen Aliyi de değme (yarama)\nYarama yarama yarama oy\nPir Sultan Abdal'ım da\n(deftere yazar deftere yazar)\n\nPir Sultan Abdal'ım da deftere yazar\nHilebaz yar ile de olur mu bazar\nBir melhem çalmazsa da yaralar azar\nSeversen Aliyi de değme (yarama)\nYarama yarama yarama oy\nSeversen Ali'yi de değme (yarama yarama) dost"
   },
   {
     "id": "karsida-gorunen-ne-guzel-yayla",
@@ -589,8 +577,7 @@ window.DEYISLER = [
     "konular": [],
     "anilanlar": [],
     "kaynak": "Kullanıcı tarafından iletilen internet ekran görüntüsü",
-    "not": "Ekran görüntüsünden aktarılmıştır; son metin doğrulaması önerilir.",
-    "metin": "Karşıda görünen ne güzel yayla\nBir dem süremedim giderim boyle\nAla gözlü Pirim sen himmet eyle\nBen de bu yayladan Şah'a giderim\nEğer gögerüben bostan olursam\nSu halkin diline destan olursam\nKara toprak senden üstün olursam\nBen de bu yayladan Şah'a giderim\nBir bölük turnaya sökün dediler\nYürekteki derdi dökün dediler\nYayladan ötesi yakin dediler\nBen de bu yayladan Şah'a giderim\nDost elinden dolu igmis deliyim\nUstü kan kopüklü mese seliyim\nBen bir yol ogluyum yol sefiliyim\nBen de bu yayladan Şah'a giderim\nAlinmis abdestim aldinirlarsa\nKılınmış namazm kildinirlarsa\nSizde Şah diyeni öldürürlerse\nBen de bu yayladan Şah'a giderim\nPir Sultan Abdal'm dünya durulmaz\nGitti giden dmür geri dönülmez\nGözlerim de Şah yolundan ayrilmaz\nBen de bu yayladan Şah'a giderim"
+    "metin": "Karşıda görünen ne güzel yayla\nBir dem süremedim giderim böyle\nAla gözlü pirim sen himmet eyle\nBen de bu yayladan Şah'a giderim\n\nEğer göğerüben bostan olursam\nŞu halkın diline destan olursam\nKara toprak senden üstün olursam\nBen de bu yayladan Şah'a giderim\n\nBir bölük turnaya sökün dediler\nYürekteki derdi dökün dediler\nYayladan ötesi yakın dediler\nBen de bu yayladan Şah'a giderim\n\nDost elinden dolu içmiş deliyim\nÜstü kan köpüklü meşe seliyim\nBen bir yol oğluyum yol sefiliyim\nBen de bu yayladan Şah'a giderim\n\nAlınmış abdestim aldırırlarsa\nKılınmış namazım kıldırırlarsa\nSizde Şah diyeni öldürürlerse\nBen de bu yayladan Şah'a giderim\n\nPir Sultan Abdal'ım dünya durulmaz\nGitti giden ömür geri dönülmez\nGözlerim de Şah yolundan ayrılmaz\nBen de bu yayladan Şah'a giderim"
   },
   {
     "id": "bugun-matem-gunu-geldi",
@@ -600,8 +587,7 @@ window.DEYISLER = [
     "konular": [],
     "anilanlar": [],
     "kaynak": "Kullanıcı tarafından iletilen internet ekran görüntüsü",
-    "not": "Ekran görüntüsünden aktarılmıştır; son metin doğrulaması önerilir.",
-    "metin": "Bugün matem günü geldi\nAh Hüseyin'im vah Hüseyin'im\nSenin derdin bagrim deldi\nAh Hüseyin'im vah Hüseyin'im\nSehit düşmüş Şahi Merdan\nŞah Hüseyin'im canim Hüseyin'im\nKerbela'nin önü düzdür\nGeeeler bana gündüzdür\nSak Kerbelada yalnizdir\nAh Hüseyin'im vah Hitseynim\nSehit düşmüş Şahi Merdan\nŞah Hüseyin'im canim Hüseyin'im\nŞah Hüseyin'im attan düştü\nYezit gelip kanin igti\nAti Medine'ye kagti\nAh Hüseyin'im vah Hüseyin'im\nSehit düşmüş Şahi Merdan\nŞah Hüseyin'im canim Hüseyin'im\nRerbela'nin yazlart\nSehid düştü gazileri\nFatma ana kuzulart\nAh Hasanim vah Hüseyin'im\nSehit düşmüş Şahi Merdan\nŞah Hüseyin'im canim Hüseyin'im\nKerbela'nin önti yonea\nYonca gikmig diz boyunca\nŞah Hatayim katarinca\nAh Hüseyin'im vah Hüseyin'im\nSehit düşmüş Şahi Merdan\nŞah Hüseyin'im canim Hüseyin'im"
+    "metin": "Bugün matem günü geldi\nAh Hüseynim vah Hüseynim\nSenin derdin bağrım deldi\nAh Hüseynim vah Hüseynim\n\nŞehit düşmüş Şah-ı Merdan\nŞah Hüseynim can Hüseynim\n\nKerbela'nın önü düzdür\nGeceler bana gündüzdür\nŞah Kerbela'da yalnızdır\nAh Hüseynim vah Hüseynim\n\nŞehit düşmüş Şah-ı Merdan\nŞah Hüseynim can Hüseynim\n\nŞah Hüseynim attan düştü\nYezit gelip kanın içti\nAtı Medine'ye kaçtı\nAh Hüseynim vah Hüseynim\n\nŞehit düşmüş Şah-ı Merdan\nŞah Hüseynim can Hüseynim\n\nKerbela'nın yazıları\nŞehit düştü gazileri\nFatma ana kuzuları\nAh Hasanım vah Hüseynim\n\nŞehit düşmüş Şah-ı Merdan\nŞah Hüseynim can Hüseynim"
   },
   {
     "id": "efsane",
@@ -611,8 +597,7 @@ window.DEYISLER = [
     "konular": [],
     "anilanlar": [],
     "kaynak": "Kullanıcı tarafından iletilen internet ekran görüntüsü",
-    "not": "Ekran görüntüsünden aktarılmıştır; son metin doğrulaması önerilir.",
-    "metin": "Bir zaman efsane yeldim cihanda\nSimdi Bir Sultana Eristik Sükür\nFehmettim Esyay! Sebul Mesan Da\nNokta-/ Birhana Eristik Sükür\nYedi Harften Bir Noktaya Stiztldtk\nEsmati'l Hüsna'ya Andan Yazildik\nEhlibeyt'in Katarina Duztildtk\nMenzil'i Merdana Eristik Suktr\nOtuz Alt: Babdan içeri Girdik\nHamdiulillah Ne Hub Didara Erdik\nKaldirdi Nikabin Cemalin Gordtk\nAcaib Seyrana Eristik Suki\nSidki Der Dembedem Zikrullahimiz\nCana Hayat Verir Feyzullahimiz\nSertac-| Muhammed Eyvallahimiz\nSirr! Lamekana Eristik Sdkir"
+    "metin": "Bir zaman efsane yeldim cihanda\nŞimdi bir sultana eriştik şükür\nFehmettim eşyayı sebul mesan da\nNokta-i bürhana eriştik şükür\n\nYedi harften bir noktaya süzüldük\nEsmaü'l hüsna'ya andan yazıldık\nEhlibeyt'in katarına düzüldük\nMenzil'i merdana eriştik şükür\n\nOtuz altı babdan içeri girdik\nHamdülillah ne hub didara erdik\nKaldırdı nikabın cemalin gördük\nAcaib seyrana eriştik şükür\n\nSıdkı der dembedem zikrullahımız\nCana hayat verir feyzullahımız\nSertac-ı Muhammed eyvallahımız\nSırrı lamekana eriştik şükür"
   },
   {
     "id": "ak-melegim-goc-eylemis-yurdundan",
@@ -622,8 +607,7 @@ window.DEYISLER = [
     "konular": [],
     "anilanlar": [],
     "kaynak": "Kullanıcı tarafından iletilen internet ekran görüntüsü",
-    "not": "Ekran görüntüsünden aktarılmıştır; son metin doğrulaması önerilir.",
-    "metin": "Ak meleğim göç eylemiş yurdundan\nHavalanmis minnet etsem iner mi\nCan etkmazsa o kurtulmaz bu demden\nAlev almis ates dagi sdner mi\nDertli olanlara elbet zar gelir\nGenis dünya tek basina dar gelir\nEllere yaz bahar bana kis gelir\nBen yanarim eller beni kinar m\nMetini'yem daha giymem allari\nViran olsun Camsthi'nin elleri\nSele verem dag tasi gdlleri\nAkl olan bu dünyaya kanar mi"
+    "metin": "Ak meleğim göç eylemiş yurdundan\nHavalanmış minnet etsem iner mi\nCan çıkmazsa o kurtulmaz bu demden\nAlev almış ateş dağı söner mi\n\nDertli olanlara elbet zar gelir\nGeniş dünya tek başına dar gelir\nEllere yaz bahar bana kış gelir\nBen yanarım eller beni kınar mı\n\nMetini'yem daha giymem alları\nViran olsun Çamşıhı'nın elleri\nSele verem dağı taşı çölleri\nAklı olan bu dünyaya kanar mı"
   },
   {
     "id": "bu-yola-talip-ol-baglandin-ise",
@@ -633,8 +617,7 @@ window.DEYISLER = [
     "konular": [],
     "anilanlar": [],
     "kaynak": "Kullanıcı tarafından iletilen internet ekran görüntüsü",
-    "not": "Ekran görüntüsünden aktarılmıştır; son metin doğrulaması önerilir.",
-    "metin": "Bu yola talip ol bağlandın ise\nPeyik sofulara beyan eylesin\nHakikat aşk ile daglandin ise\nGit kendi pirine derman eylesin\nMuseyibini aldirasin dara\nDört basin mamur et olma mudara\nMüminler fakirdir değil fukara\nBu hakin ceminde cavlan eylesin\nKemer best bagladtk baginda tact\nRulaginda küpe gürhunact\nGidil bir kabbedir yapta ol hact\nDavut Sulari'ye nigan eylesin"
+    "metin": "Bu yola talip ol bağlandın ise\nPeyik sofulara beyan eylesin\nHakikat aşkı ile dağlandın ise\nGit kendi pirine derman eylesin\n\nMuseyibini aldırasın dara\nDört başın mamur et olma mudara\nMüminler fakırdır değil fukara\nBu hakin ceminde cavlan eylesin\n\nKemer best bağladık başında tacı\nKulağında küpe gürhunacı\nGüdül bir kabbedır yapta ol hacı\nDavut Sulari'ye nişan eylesin"
   },
   {
     "id": "seher-oldu-ey-nigarim",
@@ -644,8 +627,7 @@ window.DEYISLER = [
     "konular": [],
     "anilanlar": [],
     "kaynak": "Kullanıcı tarafından iletilen internet ekran görüntüsü",
-    "not": "Ekran görüntüsünden aktarılmıştır; son metin doğrulaması önerilir.",
-    "metin": "Seher oldu ey nigârım\nBelki gidem diyarimdan\nFelek zulmedip ayirdt\nBeni gül yüzlui yarimdan\nOlen bilir kalan bilir\nSeni turap olan bilir\nMuhabbet kokusu gelir\nYel estikee damarimdan\nSenin elin bana ermez\nBenim gözum seni gormez\nMurayjiler kain olmaz\nAyirir yari yarinden\nSeyit Vesimi'nin ahi\nGidenler gelmez bir dahi\nMedet ey kullarin şahi\nMahrum koyma didarindan"
+    "metin": "Seher oldu ey nigarım\nBelki gidem diyarımdan\nFelek zulmedip ayırdı\nBeni gül yüzlü yarımdan\n\nÖlen bilir kalan bilir\nSeni turap olan bilir\nMuhabbet kokusu gelir\nYel estikçe damarımdan\n\nSenin elin bana ermez\nBenim gözüm seni görmez\nMurayiler kain olmaz\nAyırır yari yarinden\n\nSeyit Nesimi'nin ahı\nGidenler gelmez bir dahi\nMedet ey kulların şahı\nMahrum koyma didarından"
   },
   {
     "id": "ela-gozlerini-sevdigim-dilber-gonlum-sana-dustu",
@@ -655,8 +637,7 @@ window.DEYISLER = [
     "konular": [],
     "anilanlar": [],
     "kaynak": "Kullanıcı tarafından iletilen internet ekran görüntüsü",
-    "not": "Ekran görüntüsünden aktarılmıştır; son metin doğrulaması önerilir.",
-    "metin": "Ela gözlerini sevdiğim dilber\nGönlüm sana düştü, halim nic'olur\nBu sevdayı verme kullar başına\nMüptelalık bir beladır, güç olur\n\nBeni ağlatma ki sen de gülesin\nMuradına maksuduna eresin\nKorkarım yad ele meyil veresin\nMeyil verme, altın adın tunç olur\n\nGevheri'yem, yandım nâr-ı firkattan\nDostumun hasreti çıkmaz yürekten\nBir zaman ben seni diledim Hak'tan\nVerir amma korkarım ki geç olur"
+    "metin": "Ela gözlerini sevdiğim dilber\nGönlüm sana düştü düştü halim nic'olur, halim nic'olur\nBu sevdayı verme kullar başına\nMüptelalık bir beladır güç olur\nBu sevdayı verme kullar başına\nMüptelalık bir beladır güç olur\n\nBeni ağlatma ki sen de gülesin\nBeni ağlatma ki sen de gülesin\nMuradına maksuduna eresin, canan eresin\nKorkarım yad ele meyil veresin\nMeyil verme altın adın tunç olur\nKorkarım yad ele meyil veresin\nMeyil verme altın adın tunç olur\n\nGevheri'yem yandım yandım nar-ı fırkatan\nGevheri'yem yandım yandım nar-e fırkatan\nDostumun hasreti çıkmaz yürekten, çıkmaz yürekten\nBir zaman ben seni diledim haktan\nVerir ama korkarım ki geç olur\nBir zaman ben seni diledim haktan\nVerir ama korkarım ki geç olur"
   },
   {
     "id": "soz-etme-gonul",
@@ -666,7 +647,6 @@ window.DEYISLER = [
     "konular": [],
     "anilanlar": [],
     "kaynak": "Kullanıcı tarafından iletilen internet ekran görüntüsü",
-    "not": "Ekran görüntüsünden aktarılmıştır; son metin doğrulaması önerilir.",
-    "metin": "Kendi noksanını bilip arif ol\nKimsenin ayibini gözetme gönül\nYetmis Ug millete bir nazarla bak\nHak sevmis, yaratmis hey hey söz etme gönül\nGönul gönül deli divane gönül\nHak sevmis, yaratmis hey hey söz etme gönül\nGönul gönül deli divane gönül\nSakin kalles olup lakirdi duzme\nKimsenin alemde gönlünü Gzme\nDuzelmis bir isi varip da bozma\nIsinmis dilleri hey hey buz etme gönül\nGönul gönül deli divane gönül\nIsinmis dilleri hey hey buz etme gönül\nGönul gönül deli divane gönül\nilhami halini disün bir söyle\nDuinyaya gelmekten maksat ne böyle?\nHakkint alirsan bin sdkir eyle\ninmale distip de hey hey az etme goönil\nGönul gönül deli divane gönül\ninmale düstp de hey hey az etme gönül\nGönül gönül deli divane gönül"
+    "metin": "Kendi noksanını bilip Arif ol\nKimsenin ayıbını gözetme gönül\nYetmiş üç millete bir nazarla bak\nHak sevmiş, yaratmış hey hey söz etme gönül\nGönül gönül deli divane gönül\nHak sevmiş, yaratmış hey hey söz etme gönül\nGönül gönül deli divane gönül\n\nSakın kalleş olup lakırdı düzme\nKimsenin âlemde gönlünü üzme\nDüzelmiş bir işi varıp da bozma\nIsınmış dilleri hey hey buz etme gönül\nGönül gönül deli divane gönül\nIsınmış dilleri hey hey buz etme gönül\nGönül gönül deli divane gönül\n\nİlhami hâlini düşün bir söyle\nDünyaya gelmekten maksat ne böyle?\nHakkını alırsan bin şükür eyle\nİhmale düşüp de hey hey az etme gönül\nGönül gönül deli divane gönül\nİhmale düşüp de hey hey az etme gönül\nGönül gönül deli divane gönül"
   }
 ];

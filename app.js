@@ -182,7 +182,7 @@
   }
 
   function sourceMarkup(poem) {
-    const source = poem.kaynak || "Hz. Sauna Sultan Dergâhı aile arşivine iletilen metin";
+    const source = poem.kaynak || "Kaynak belirtilmemiş";
     const status = poem.dogrulama || "Kaynak karşılaştırması bekliyor";
     const date = poem.sonKontrol || "Henüz kaydedilmedi";
     const variant = poem.varyant || "Kayıtlı varyant notu yok";
