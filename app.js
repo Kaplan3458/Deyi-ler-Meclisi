@@ -206,7 +206,7 @@
     els.readerText.textContent = poem.metin;
     els.readerNotes.textContent = poem.not || "";
     els.readerNotes.hidden = !poem.not;
-    els.readerSource.innerHTML = sourceMarkup(poem);
+    els.readerSource.hidden = true;
     applyFontSize();
     updateReaderActions();
     addRecent(poem.id);
